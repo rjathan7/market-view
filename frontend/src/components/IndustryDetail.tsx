@@ -1,7 +1,10 @@
 import { Link, useParams } from "react-router-dom";
 import { ArrowLeft, Info } from "lucide-react";
 import { useIndustryScores } from "@/hooks/useIndustryScores";
+import { useStockMetrics } from "@/hooks/useStockMetrics";
 import { SubScoreBar } from "@/components/SubScoreBar";
+import { StockTable } from "@/components/StockTable";
+import { ReturnDistribution } from "@/components/ReturnDistribution";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { healthTier, tierColorClass, arrowGlyph, arrowColorClass } from "@/lib/health";
@@ -20,12 +23,13 @@ const SUB_SCORE_INFO = {
 export function IndustryDetail() {
   const { industry: industryParam } = useParams<{ industry: string }>();
   const { data, error } = useIndustryScores();
+  const { data: stockData, error: stockError } = useStockMetrics();
 
-  if (error) {
-    return <p className="px-4 py-8 text-sm text-rose-500">Failed to load data: {error}</p>;
+  if (error || stockError) {
+    return <p className="px-4 py-8 text-sm text-rose-500">Failed to load data: {error ?? stockError}</p>;
   }
 
-  if (!data) {
+  if (!data || !stockData) {
     return <p className="px-4 py-8 text-sm text-muted-foreground">Loading...</p>;
   }
 
@@ -43,6 +47,9 @@ export function IndustryDetail() {
   }
 
   const tier = healthTier(item.health_score);
+  const industryStocks = stockData.stocks.filter((s) => s.industry === industryName);
+  const pctAboveMa50 = (industryStocks.filter((s) => s.above_ma50 === 1).length / industryStocks.length) * 100;
+  const pctNear52wHigh = (industryStocks.filter((s) => s.near_52w_high === 1).length / industryStocks.length) * 100;
 
   return (
     <div className="mx-auto w-full max-w-3xl px-4 py-8">
@@ -107,10 +114,35 @@ export function IndustryDetail() {
           <CardTitle>Breadth Snapshot</CardTitle>
           <CardDescription>Participation across the industry's {item.num_stocks} stocks</CardDescription>
         </CardHeader>
-        <CardContent className="grid grid-cols-3 gap-4">
+        <CardContent className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
+          <Stat label="Above 50-day MA" value={`${pctAboveMa50.toFixed(0)}%`} />
           <Stat label="Above 200-day MA" value={`${item.pct_above_ma200.toFixed(0)}%`} />
+          <Stat label="Near 52-week high" value={`${pctNear52wHigh.toFixed(0)}%`} />
           <Stat label="Near 52-week low" value={`${item.pct_near_52w_low.toFixed(0)}%`} />
           <Stat label="Avg 1-day return" value={`${(item.avg_1d_return * 100).toFixed(2)}%`} />
+        </CardContent>
+      </Card>
+
+      <Card className="mt-6">
+        <CardHeader>
+          <CardTitle>Stocks</CardTitle>
+          <CardDescription>Sorted by 1-week return — leaders at top, laggards at bottom</CardDescription>
+        </CardHeader>
+        <CardContent>
+          <StockTable stocks={industryStocks} />
+        </CardContent>
+      </Card>
+
+      <Card className="mt-6">
+        <CardHeader>
+          <CardTitle>Return Distribution</CardTitle>
+          <CardDescription>
+            1-week return distribution across the industry's {item.num_stocks} stocks — a single tall bar means
+            leadership is concentrated, spread-out bars mean it's broad-based
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <ReturnDistribution stocks={industryStocks} />
         </CardContent>
       </Card>
     </div>
