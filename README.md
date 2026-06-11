@@ -1,4 +1,4 @@
-# Product Spec: Market Organism Intelligence Platform
+# Product Spec: Market View Intelligence Platform
 
 ## Product Summary
 
