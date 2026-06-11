@@ -1,10 +1,15 @@
 import { IndustryRanking } from "@/components/IndustryRanking";
+import { ThemeProvider } from "@/components/theme-provider";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 function App() {
   return (
-    <main className="min-h-svh bg-background">
-      <IndustryRanking />
-    </main>
+    <ThemeProvider>
+      <main className="min-h-svh bg-background">
+        <ThemeToggle />
+        <IndustryRanking />
+      </main>
+    </ThemeProvider>
   );
 }
 
