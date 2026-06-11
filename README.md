@@ -1,4 +1,4 @@
-# Product Spec: Market View Intelligence Platform
+# Market View Intelligence Platform
 
 **Live app**: [market-view-t9ks.vercel.app](https://market-view-t9ks.vercel.app/)
 
