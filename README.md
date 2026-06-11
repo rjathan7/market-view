@@ -1,5 +1,7 @@
 # Product Spec: Market View Intelligence Platform
 
+**Live app**: [market-view-t9ks.vercel.app](https://market-view-t9ks.vercel.app/)
+
 ## Product Summary
 
 The product is a market intelligence visualization system that does **NOT** focus on individual stocks first.
@@ -339,3 +341,14 @@ To transform raw market data into a visual system of market health and rotation,
 | `near_52w_low` | INTEGER | 1 if price is within 5% of its 52-week low |
 
 - **Persistence note**: if `daily_update.py` runs via a scheduled CI job (e.g., GitHub Actions), each run starts from a fresh checkout with no memory of previous runs. `data/market.db` lives on a dedicated `data` branch (not `main`), and each run fetches it, updates it, and force-pushes a single squashed commit back to `data`. This keeps the file's history accumulated for the ETL while preventing `main`'s history from growing by the size of the database on every run.
+
+## Deployment
+
+The frontend is deployed on [Vercel](https://vercel.com)'s free Hobby tier:
+
+1. Push the repo to GitHub (already connected: `rjathan7/market-view`).
+2. In Vercel, click "Add New → Project" and import the GitHub repo.
+3. Set **Root Directory** to `frontend` (the React app lives in a subfolder, not the repo root). Vercel then auto-detects the Vite preset with build command `npm run build` and output directory `dist`.
+4. A `frontend/.npmrc` with `legacy-peer-deps=true` is required: `@visx/group`'s peer dependencies don't yet list React 19, which otherwise fails `npm install` on Vercel.
+5. A `frontend/vercel.json` with a catch-all rewrite to `/index.html` is required for client-side routing (`/industry/:industry`), so direct links and page refreshes don't 404.
+6. Deploy. Vercel auto-redeploys on every push to `main`, including the daily automated data-update commits, so the live site always reflects the latest `industry_scores.json` / `stock_metrics.json`.
