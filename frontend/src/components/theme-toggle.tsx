@@ -11,7 +11,7 @@ export function ThemeToggle() {
       size="icon"
       onClick={toggleTheme}
       aria-label="Toggle theme"
-      className="fixed top-4 left-4 z-50"
+      className="fixed top-4 right-4 z-50"
     >
       {theme === "dark" ? <Sun className="size-4" /> : <Moon className="size-4" />}
     </Button>
