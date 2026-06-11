@@ -171,7 +171,7 @@ A "Breadth Snapshot" card showing, across the industry's stocks:
 
 Most of this view reuses data already produced for the Health Score, with a few additions to the ETL output:
 
-- **Per-stock output**: the `stock_metrics` table stores one row per stock (price, 1-day/1-week/1-month return, MA50/MA200 status, 52-week high/low flags, volatility), overwritten daily and exported to `stock_metrics.json`, powering the Stocks table and Distribution View.
+- **Per-stock output**: the `stock_metrics` table stores one row per stock (price, 1-day/1-week/1-month return, MA50 status, 52-week high/low flags), overwritten daily and exported to `stock_metrics.json`, powering the Stocks table and Distribution View.
 - **MA200 addition**: `industry_scores.pct_above_ma200` and `pct_near_52w_low` give the Breadth Panel full coverage alongside the existing breadth inputs.
 
 ### 4. Key Visualization Innovation: Distribution View
@@ -323,7 +323,7 @@ To transform raw market data into a visual system of market health and rotation,
 | `pct_near_52w_low` | REAL | % of stocks within 5% of their 52-week low |
 | `avg_1d_return` | REAL | Average 1-day return across the industry's stocks |
 
-`stock_metrics`, one row per stock, the latest per-stock snapshot (overwritten daily). Powers the Leadership/Weakness Panels and Distribution View.
+`stock_metrics`, one row per stock, the latest per-stock snapshot (overwritten daily). Powers the Stocks table and Distribution View.
 
 | Column | Type | Description |
 |---|---|---|
@@ -335,9 +335,7 @@ To transform raw market data into a visual system of market health and rotation,
 | `one_week_return` | REAL | 1-week return |
 | `one_month_return` | REAL | 1-month return |
 | `above_ma50` | INTEGER | 1 if price > 50-day moving average |
-| `above_ma200` | INTEGER | 1 if price > 200-day moving average (NULL if <200 days of history) |
 | `near_52w_high` | INTEGER | 1 if price is within 5% of its 52-week high |
 | `near_52w_low` | INTEGER | 1 if price is within 5% of its 52-week low |
-| `volatility` | REAL | Std. dev. of daily returns over the last 20 trading days |
 
 - **Persistence note**: if `daily_update.py` runs via a scheduled CI job (e.g., GitHub Actions), each run starts from a fresh checkout with no memory of previous runs. `data/market.db` lives on a dedicated `data` branch (not `main`), and each run fetches it, updates it, and force-pushes a single squashed commit back to `data`. This keeps the file's history accumulated for the ETL while preventing `main`'s history from growing by the size of the database on every run.
