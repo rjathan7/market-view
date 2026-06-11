@@ -23,7 +23,7 @@ jobs:
         run: pip install -r etl/requirements.txt
 
       - name: Run daily update
-        run: python etl/daily_update.py
+        run: python daily_update.py
         working-directory: etl
 
       - name: Commit updated database
