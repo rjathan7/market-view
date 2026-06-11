@@ -71,6 +71,8 @@ Users immediately perceive:
 - which are weakening
 - where momentum is accelerating or fading
 
+Each row links to that industry's Drill-Down View (Section 3), which opens with the Health Score Breakdown described below.
+
 ### 2. Core Metric: Industry Health Score (0–100)
 
 Each industry has a computed scalar score representing overall strength.
@@ -149,36 +151,34 @@ The score is **NOT predictive**: it is descriptive of current market condition.
 
 ### 3. Industry Drill-Down View
 
-When a user selects an industry, the system presents structured intelligence, NOT charts-first UI.
+Clicking an industry on the Main Screen opens its Drill-Down View: structured intelligence, NOT charts-first UI. The view opens with the Health Score Breakdown (the four sub-scores from Section 2), each with an info popover explaining what it measures and how it's weighted.
 
-#### 3.1 Leadership Panel
+#### 3.1 Leadership & Weakness Panel
 
-- top gainers
-- strongest momentum stocks
-- new 52-week highs
+Implemented as a single "Stocks" table: one row per stock in the industry, with price and 1-day/1-week/1-month return, plus a badge for stocks near their 52-week high or low. The table is sorted by 1-week return, so the strongest stocks (leaders, new highs) sit at the top and the weakest (laggards, breakdowns, new lows) sit at the bottom.
 
-#### 3.2 Weakness Panel
+#### 3.2 Breadth Panel
 
-- laggards
-- breakdown stocks
-- new 52-week lows
+A "Breadth Snapshot" card showing, across the industry's stocks:
 
-#### 3.3 Breadth Panel
+- % above 50-day MA
+- % above 200-day MA
+- % near 52-week high
+- % near 52-week low
+- average 1-day return
 
-- % above MA50
-- % above MA200
-- % near 52-week highs/lows
-
-#### 3.4 Flow Panel (optional expansion)
+#### 3.3 Flow Panel (pending)
 
 - relative strength vs other industries
 - rotation direction (inflow/outflow)
+
+Requires multiple days of `industry_scores` history to compute trends. Not yet built, since only a single daily snapshot has accumulated so far; this panel can be added once enough history exists via the `daily_update.py` workflow.
 
 #### Drill-Down Data Requirements
 
 Most of this view reuses data already produced for the Health Score, with a few additions to the ETL output:
 
-- **Per-stock output**: the `stock_metrics` table stores one row per stock (price, 1-day/1-week/1-month return, MA50/MA200 status, 52-week high/low flags, volatility), overwritten daily, so the Leadership and Weakness panels can sort/filter individual stocks within an industry.
+- **Per-stock output**: the `stock_metrics` table stores one row per stock (price, 1-day/1-week/1-month return, MA50/MA200 status, 52-week high/low flags, volatility), overwritten daily and exported to `stock_metrics.json`, powering the Stocks table and Distribution View.
 - **MA200 addition**: `industry_scores.pct_above_ma200` and `pct_near_52w_low` give the Breadth Panel full coverage alongside the existing breadth inputs.
 - **Historical industry scores**: the Flow Panel's "relative strength vs other industries" and "rotation direction" require multiple days of `industry_scores` rows, which accumulate naturally as `daily_update.py` runs over time.
 
@@ -213,7 +213,11 @@ Indicates whether:
 
 This is a core insight layer.
 
-### 5. Rotation View (Secondary Tab)
+**Implementation:**
+
+A "Return Distribution" card on the Industry Drill-Down View bins each stock's 1-week return (e.g. `<-10%`, `-10/-5%`, ... `>10%`) and renders the counts as a Visx bar chart, colored red for negative bins and green for positive bins. A single tall bar means leadership is concentrated in one bucket; spread-out bars mean it's broad-based.
+
+### 5. Rotation View (Secondary Tab, pending)
 
 A system-wide ranking of industries based on momentum flow.
 
@@ -241,18 +245,9 @@ A system-wide ranking of industries based on momentum flow.
 
 Detect sector rotation early and explicitly.
 
-### 6. Market Narrative Layer (Optional but powerful)
+**Status:**
 
-A daily summary view: **"Today's Market Story"**
-
-Includes:
-
-- strongest industries
-- weakest industries
-- breadth expansion/contraction
-- regime shifts
-
-This is a human-readable abstraction of market structure.
+Like the Flow Panel, this requires multiple days of `industry_scores` history (1-day/1-week/1-month change in Health Score per industry) to be meaningful. Not yet built; will revisit once enough daily snapshots have accumulated via the `daily_update.py` workflow.
 
 ## Data & Computation Model
 
@@ -313,9 +308,11 @@ To transform raw market data into a visual system of market health and rotation,
 
 ### Frontend
 
-- **Framework**: React
-- **UI Components**: shadcn/ui + Tailwind CSS, for a clean, minimal aesthetic (in the spirit of Mercury / Linear / Vercel)
-- **Custom Visualizations**: Visx (or D3) for the ranked-row bars and Distribution View, styled with the same design tokens as the rest of the UI
+- **Framework**: React 19 + TypeScript, built with Vite (dev server on port 3000)
+- **Routing**: react-router-dom (`/` for the Main Screen, `/industry/:industry` for the Drill-Down View)
+- **UI Components**: shadcn/ui (Tailwind CSS v4) for a clean, minimal aesthetic (in the spirit of Mercury / Linear / Vercel), with a light/dark theme toggle
+- **Custom Visualizations**: Visx for the ranked-row Health Score bars, the sub-score breakdown bars, and the Return Distribution histogram
+- **Data source**: static JSON snapshots (`industry_scores.json`, `stock_metrics.json`) exported by `etl/export_json.py` into `frontend/public/data/`; the frontend reads these directly with no backend or in-browser database
 
 ### Data Pipeline (ETL)
 
