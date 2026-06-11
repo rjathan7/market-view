@@ -178,9 +178,9 @@ When a user selects an industry, the system presents structured intelligence, NO
 
 Most of this view reuses data already produced for the Health Score, with a few additions to the ETL output:
 
-- **Per-stock output**: the ETL must retain per-stock results (return, MA50/MA200 status, 52-week high/low flags), not just industry-level aggregates, so the Leadership and Weakness panels can sort/filter individual stocks within an industry.
-- **MA200 addition**: the Breadth Panel needs % above MA200 in addition to % above MA50, which the Health Score currently does not compute.
-- **Historical industry scores**: the Flow Panel's "relative strength vs other industries" and "rotation direction" require a stored time series of each industry's Health Score/return over time, not just the current day's snapshot. This is a small addition to the storage layer (rolling history file or table instead of a single daily snapshot).
+- **Per-stock output**: the `stock_metrics` table stores one row per stock (price, 1-day/1-week/1-month return, MA50/MA200 status, 52-week high/low flags, volatility), overwritten daily, so the Leadership and Weakness panels can sort/filter individual stocks within an industry.
+- **MA200 addition**: `industry_scores.pct_above_ma200` and `pct_near_52w_low` give the Breadth Panel full coverage alongside the existing breadth inputs.
+- **Historical industry scores**: the Flow Panel's "relative strength vs other industries" and "rotation direction" require multiple days of `industry_scores` rows, which accumulate naturally as `daily_update.py` runs over time.
 
 ### 4. Key Visualization Innovation: Distribution View
 
@@ -363,4 +363,25 @@ To transform raw market data into a visual system of market health and rotation,
 | `momentum` | REAL | Momentum sub-score (0-100) |
 | `stability` | REAL | Stability sub-score (0-100) |
 | `health_score` | REAL | Final weighted Health Score (0-100) |
+| `pct_above_ma200` | REAL | % of stocks above their 200-day moving average |
+| `pct_near_52w_low` | REAL | % of stocks within 5% of their 52-week low |
+| `avg_1d_return` | REAL | Average 1-day return across the industry's stocks |
+
+`stock_metrics`, one row per stock, the latest per-stock snapshot (overwritten daily). Powers the Leadership/Weakness Panels and Distribution View.
+
+| Column | Type | Description |
+|---|---|---|
+| `ticker` (PK) | TEXT | Stock symbol |
+| `date` | TEXT | Snapshot date, `YYYY-MM-DD` |
+| `industry` | TEXT | GICS Sub-Industry |
+| `price` | REAL | Latest closing price |
+| `one_day_return` | REAL | 1-day return |
+| `one_week_return` | REAL | 1-week return |
+| `one_month_return` | REAL | 1-month return |
+| `above_ma50` | INTEGER | 1 if price > 50-day moving average |
+| `above_ma200` | INTEGER | 1 if price > 200-day moving average (NULL if <200 days of history) |
+| `near_52w_high` | INTEGER | 1 if price is within 5% of its 52-week high |
+| `near_52w_low` | INTEGER | 1 if price is within 5% of its 52-week low |
+| `volatility` | REAL | Std. dev. of daily returns over the last 20 trading days |
+
 - **Persistence note**: if `daily_update.py` runs via a scheduled CI job (e.g., GitHub Actions), each run starts from a fresh checkout with no memory of previous runs. `data/market.db` lives on a dedicated `data` branch (not `main`), and each run fetches it, updates it, and force-pushes a single squashed commit back to `data`. This keeps the file's history accumulated for the ETL while preventing `main`'s history from growing by the size of the database on every run.

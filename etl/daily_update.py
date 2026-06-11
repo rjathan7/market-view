@@ -78,20 +78,45 @@ def main():
     stock_df = pd.DataFrame(rows)
     print(f"Computed metrics for {len(stock_df)} / {len(tickers)} stocks")
 
+    today = date.today().isoformat()
+
+    # Persist per-stock snapshot (overwritten daily, used by Leadership/Weakness/Distribution views)
+    stock_metric_rows = [
+        (
+            r["ticker"], today, r["industry"], r["price"],
+            r["one_day_return"], r["one_week_return"], r["one_month_return"],
+            int(r["above_ma50"]),
+            int(r["above_ma200"]) if r["above_ma200"] is not None else None,
+            int(r["near_52w_high"]), int(r["near_52w_low"]),
+            r["volatility"],
+        )
+        for _, r in stock_df.iterrows()
+    ]
+    conn.executemany(
+        """INSERT OR REPLACE INTO stock_metrics
+           (ticker, date, industry, price, one_day_return, one_week_return, one_month_return,
+            above_ma50, above_ma200, near_52w_high, near_52w_low, volatility)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+        stock_metric_rows,
+    )
+    conn.commit()
+    print(f"Stored per-stock metrics for {len(stock_metric_rows)} stocks")
+
     industry_stats = compute_industry_health_scores(stock_df)
 
-    today = date.today().isoformat()
     score_rows = [
         (
             today, r["industry"], int(r["num_stocks"]),
             r["breadth"], r["trend"], r["momentum"], r["stability"], r["health_score"],
+            r["pct_above_ma200"], r["pct_near_52w_low"], r["avg_1d_return"],
         )
         for _, r in industry_stats.iterrows()
     ]
     conn.executemany(
         """INSERT OR REPLACE INTO industry_scores
-           (date, industry, num_stocks, breadth, trend, momentum, stability, health_score)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+           (date, industry, num_stocks, breadth, trend, momentum, stability, health_score,
+            pct_above_ma200, pct_near_52w_low, avg_1d_return)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         score_rows,
     )
     conn.commit()

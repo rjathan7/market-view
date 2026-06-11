@@ -37,4 +37,27 @@ def get_connection():
             PRIMARY KEY (date, industry)
         )
     """)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS stock_metrics (
+            ticker TEXT PRIMARY KEY,
+            date TEXT,
+            industry TEXT,
+            price REAL,
+            one_day_return REAL,
+            one_week_return REAL,
+            one_month_return REAL,
+            above_ma50 INTEGER,
+            above_ma200 INTEGER,
+            near_52w_high INTEGER,
+            near_52w_low INTEGER,
+            volatility REAL
+        )
+    """)
+
+    # Migrations: add columns to industry_scores for existing databases
+    existing_cols = {row[1] for row in conn.execute("PRAGMA table_info(industry_scores)").fetchall()}
+    for column in ("pct_above_ma200", "pct_near_52w_low", "avg_1d_return"):
+        if column not in existing_cols:
+            conn.execute(f"ALTER TABLE industry_scores ADD COLUMN {column} REAL")
+
     return conn
