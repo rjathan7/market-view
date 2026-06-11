@@ -30,10 +30,8 @@ export interface StockMetric {
   one_week_return: number;
   one_month_return: number;
   above_ma50: number;
-  above_ma200: number | null;
   near_52w_high: number;
   near_52w_low: number;
-  volatility: number;
 }
 
 export interface StockMetricsResponse {

@@ -47,10 +47,8 @@ def get_connection():
             one_week_return REAL,
             one_month_return REAL,
             above_ma50 INTEGER,
-            above_ma200 INTEGER,
             near_52w_high INTEGER,
-            near_52w_low INTEGER,
-            volatility REAL
+            near_52w_low INTEGER
         )
     """)
 
@@ -59,5 +57,11 @@ def get_connection():
     for column in ("pct_above_ma200", "pct_near_52w_low", "avg_1d_return"):
         if column not in existing_cols:
             conn.execute(f"ALTER TABLE industry_scores ADD COLUMN {column} REAL")
+
+    # Migrations: drop unused columns from stock_metrics for existing databases
+    existing_stock_metrics_cols = {row[1] for row in conn.execute("PRAGMA table_info(stock_metrics)").fetchall()}
+    for column in ("above_ma200", "volatility"):
+        if column in existing_stock_metrics_cols:
+            conn.execute(f"ALTER TABLE stock_metrics DROP COLUMN {column}")
 
     return conn

@@ -86,17 +86,15 @@ def main():
             r["ticker"], today, r["industry"], r["price"],
             r["one_day_return"], r["one_week_return"], r["one_month_return"],
             int(r["above_ma50"]),
-            int(r["above_ma200"]) if r["above_ma200"] is not None else None,
             int(r["near_52w_high"]), int(r["near_52w_low"]),
-            r["volatility"],
         )
         for _, r in stock_df.iterrows()
     ]
     conn.executemany(
         """INSERT OR REPLACE INTO stock_metrics
            (ticker, date, industry, price, one_day_return, one_week_return, one_month_return,
-            above_ma50, above_ma200, near_52w_high, near_52w_low, volatility)
-           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            above_ma50, near_52w_high, near_52w_low)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
         stock_metric_rows,
     )
     conn.commit()
