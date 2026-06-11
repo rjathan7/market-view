@@ -15,7 +15,7 @@ const SUB_SCORE_INFO = {
   trend:
     "Percentile rank of the industry's 1-month return vs. all other industries. A slower-moving signal of overall direction.",
   momentum:
-    "Percentile rank of the industry's 1-week return vs. all other industries. A faster signal — comparing it to Trend produces the ↑↑ accelerating / ↓↓ decelerating arrows on the ranking.",
+    "Percentile rank of the industry's 1-week return vs. all other industries. A faster signal: comparing it to Trend produces the ↑↑ accelerating / ↓↓ decelerating arrows on the ranking.",
   stability:
     "100 minus the percentile rank of the industry's recent volatility vs. all other industries. Lower relative volatility (calmer, more orderly price action) means a higher score.",
 };
@@ -88,7 +88,7 @@ export function IndustryDetail() {
               </PopoverTrigger>
               <PopoverContent className="w-72 text-sm text-foreground">
                 The Health Score blends four sub-scores, each normalized to a 0–100 scale so they can be combined
-                consistently. It describes the industry's current condition — it is not a prediction of future
+                consistently. It describes the industry's current condition; it is not a prediction of future
                 performance. Tap the info icon next to each sub-score below for details.
               </PopoverContent>
             </Popover>
@@ -126,7 +126,7 @@ export function IndustryDetail() {
       <Card className="mt-6">
         <CardHeader>
           <CardTitle>Stocks</CardTitle>
-          <CardDescription>Sorted by 1-week return — leaders at top, laggards at bottom</CardDescription>
+          <CardDescription>Sorted by 1-week return: leaders at top, laggards at bottom</CardDescription>
         </CardHeader>
         <CardContent>
           <StockTable stocks={industryStocks} />
@@ -137,8 +137,8 @@ export function IndustryDetail() {
         <CardHeader>
           <CardTitle>Return Distribution</CardTitle>
           <CardDescription>
-            1-week return distribution across the industry's {item.num_stocks} stocks — a single tall bar means
-            leadership is concentrated, spread-out bars mean it's broad-based
+            1-week return distribution across the industry's {item.num_stocks} stocks. A single tall bar means
+            leadership is concentrated; spread-out bars mean it's broad-based
           </CardDescription>
         </CardHeader>
         <CardContent>
