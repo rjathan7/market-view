@@ -363,4 +363,4 @@ To transform raw market data into a visual system of market health and rotation,
 | `momentum` | REAL | Momentum sub-score (0-100) |
 | `stability` | REAL | Stability sub-score (0-100) |
 | `health_score` | REAL | Final weighted Health Score (0-100) |
-- **Persistence note**: if `daily_update.py` runs via a scheduled CI job (e.g., GitHub Actions), each run starts from a fresh checkout with no memory of previous runs. The job must **commit `data/market.db` back to the repo** after each run so the next day's run can read the accumulated history.
+- **Persistence note**: if `daily_update.py` runs via a scheduled CI job (e.g., GitHub Actions), each run starts from a fresh checkout with no memory of previous runs. `data/market.db` lives on a dedicated `data` branch (not `main`), and each run fetches it, updates it, and force-pushes a single squashed commit back to `data`. This keeps the file's history accumulated for the ETL while preventing `main`'s history from growing by the size of the database on every run.

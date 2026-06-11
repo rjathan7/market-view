@@ -22,14 +22,28 @@ jobs:
       - name: Install dependencies
         run: pip install -r etl/requirements.txt
 
+      - name: Fetch current database from data branch
+        run: |
+          mkdir -p data
+          git fetch origin data
+          git show origin/data:data/market.db > data/market.db
+
       - name: Run daily update
         run: python daily_update.py
         working-directory: etl
 
-      - name: Commit updated database
+      - name: Push updated database to data branch
         run: |
+          rm -rf /tmp/data-branch
+          mkdir -p /tmp/data-branch/data
+          cp data/market.db /tmp/data-branch/data/market.db
+          cd /tmp/data-branch
+          git init -q -b data
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/market.db
-          git diff --staged --quiet || git commit -m "Daily update: $(date -u +%Y-%m-%d)"
-          git push
+          git commit -q -m "Data snapshot: $(date -u +%Y-%m-%d)"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push -f origin data:data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
