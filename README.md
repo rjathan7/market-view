@@ -14,7 +14,7 @@ It replaces ticker-centric exploration with a macro-to-micro hierarchy:
 
 **Market → Industry → Stocks**
 
-## Core Product Philosophy
+## Core Product
 
 NOT a stock visualization tool
 NOT a charting platform
