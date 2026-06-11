@@ -167,20 +167,12 @@ A "Breadth Snapshot" card showing, across the industry's stocks:
 - % near 52-week low
 - average 1-day return
 
-#### 3.3 Flow Panel (pending)
-
-- relative strength vs other industries
-- rotation direction (inflow/outflow)
-
-Requires multiple days of `industry_scores` history to compute trends. Not yet built, since only a single daily snapshot has accumulated so far; this panel can be added once enough history exists via the `daily_update.py` workflow.
-
 #### Drill-Down Data Requirements
 
 Most of this view reuses data already produced for the Health Score, with a few additions to the ETL output:
 
 - **Per-stock output**: the `stock_metrics` table stores one row per stock (price, 1-day/1-week/1-month return, MA50/MA200 status, 52-week high/low flags, volatility), overwritten daily and exported to `stock_metrics.json`, powering the Stocks table and Distribution View.
 - **MA200 addition**: `industry_scores.pct_above_ma200` and `pct_near_52w_low` give the Breadth Panel full coverage alongside the existing breadth inputs.
-- **Historical industry scores**: the Flow Panel's "relative strength vs other industries" and "rotation direction" require multiple days of `industry_scores` rows, which accumulate naturally as `daily_update.py` runs over time.
 
 ### 4. Key Visualization Innovation: Distribution View
 
@@ -217,38 +209,6 @@ This is a core insight layer.
 
 A "Return Distribution" card on the Industry Drill-Down View bins each stock's 1-week return (e.g. `<-10%`, `-10/-5%`, ... `>10%`) and renders the counts as a Visx bar chart, colored red for negative bins and green for positive bins. A single tall bar means leadership is concentrated in one bucket; spread-out bars mean it's broad-based.
 
-### 5. Rotation View (Secondary Tab, pending)
-
-A system-wide ranking of industries based on momentum flow.
-
-**Ranking Dimensions:**
-
-- 1-day change
-- 1-week change
-- 1-month change
-
-**Output:**
-
-```
-↑ Rotating In:
-- Semiconductors
-- Cybersecurity
-- AI Infrastructure
-
-↓ Rotating Out:
-- Solar
-- Retail
-- Utilities
-```
-
-**Purpose:**
-
-Detect sector rotation early and explicitly.
-
-**Status:**
-
-Like the Flow Panel, this requires multiple days of `industry_scores` history (1-day/1-week/1-month change in Health Score per industry) to be meaningful. Not yet built; will revisit once enough daily snapshots have accumulated via the `daily_update.py` workflow.
-
 ## Data & Computation Model
 
 **Data Update Frequency:**
@@ -268,7 +228,6 @@ Fetch daily data
 → compute stock-level metrics
 → aggregate by industry
 → compute health score
-→ compute rotation ranking
 → store results
 ```
 
@@ -318,7 +277,7 @@ To transform raw market data into a visual system of market health and rotation,
 
 - **Language**: Python
 - **Data Source**: yfinance for daily OHLC data, Wikipedia's S&P 500 table for the stock universe and GICS Sector/Sub-Industry mapping (no per-ticker `.info` calls needed)
-- **Processing**: pandas for stock-level metrics → industry aggregation → Health Score computation → rotation ranking
+- **Processing**: pandas for stock-level metrics → industry aggregation → Health Score computation
 - **Pipeline structure**:
   - `backfill.py`: one-time script that pulls ~2 years of daily history for all S&P 500 stocks and stores it in SQLite
   - `daily_update.py`: recurring script that fetches only the last few days per ticker, appends to SQLite, recomputes metrics from the full stored history, and saves a dated snapshot
@@ -348,7 +307,7 @@ To transform raw market data into a visual system of market health and rotation,
 | `date` (PK) | TEXT | Trading date, `YYYY-MM-DD` |
 | `close` | REAL | Closing price |
 
-`industry_scores`, one row per industry per day, the computed Health Score snapshot. This is the table the frontend ultimately reads from, and its accumulation over time is what enables the Rotation View (comparing scores across days).
+`industry_scores`, one row per industry per day, the computed Health Score snapshot. This is the table the frontend ultimately reads from.
 
 | Column | Type | Description |
 |---|---|---|
