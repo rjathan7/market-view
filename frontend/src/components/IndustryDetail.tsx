@@ -1,9 +1,21 @@
 import { Link, useParams } from "react-router-dom";
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, Info } from "lucide-react";
 import { useIndustryScores } from "@/hooks/useIndustryScores";
 import { SubScoreBar } from "@/components/SubScoreBar";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { healthTier, tierColorClass, arrowGlyph, arrowColorClass } from "@/lib/health";
+
+const SUB_SCORE_INFO = {
+  breadth:
+    "Average of the % of stocks above their 50-day moving average and the % near 52-week highs. A high score means strength is broad-based across the industry, not concentrated in a few stocks.",
+  trend:
+    "Percentile rank of the industry's 1-month return vs. all other industries. A slower-moving signal of overall direction.",
+  momentum:
+    "Percentile rank of the industry's 1-week return vs. all other industries. A faster signal — comparing it to Trend produces the ↑↑ accelerating / ↓↓ decelerating arrows on the ranking.",
+  stability:
+    "100 minus the percentile rank of the industry's recent volatility vs. all other industries. Lower relative volatility (calmer, more orderly price action) means a higher score.",
+};
 
 export function IndustryDetail() {
   const { industry: industryParam } = useParams<{ industry: string }>();
@@ -58,16 +70,31 @@ export function IndustryDetail() {
 
       <Card className="mt-6">
         <CardHeader>
-          <CardTitle>Health Score Breakdown</CardTitle>
+          <div className="flex items-center gap-1.5">
+            <CardTitle>Health Score Breakdown</CardTitle>
+            <Popover>
+              <PopoverTrigger
+                aria-label="What is the Health Score?"
+                className="text-muted-foreground transition-colors hover:text-foreground"
+              >
+                <Info className="size-3.5" />
+              </PopoverTrigger>
+              <PopoverContent className="w-72 text-sm text-foreground">
+                The Health Score blends four sub-scores, each normalized to a 0–100 scale so they can be combined
+                consistently. It describes the industry's current condition — it is not a prediction of future
+                performance. Tap the info icon next to each sub-score below for details.
+              </PopoverContent>
+            </Popover>
+          </div>
           <CardDescription>
             Health Score = (0.35 × Breadth) + (0.25 × Trend) + (0.20 × Momentum) + (0.20 × Stability)
           </CardDescription>
         </CardHeader>
         <CardContent className="flex flex-col gap-4">
-          <SubScoreBar label="Breadth" value={item.breadth} weight={0.35} />
-          <SubScoreBar label="Trend" value={item.trend} weight={0.25} />
-          <SubScoreBar label="Momentum" value={item.momentum} weight={0.2} />
-          <SubScoreBar label="Stability" value={item.stability} weight={0.2} />
+          <SubScoreBar label="Breadth" value={item.breadth} weight={0.35} description={SUB_SCORE_INFO.breadth} />
+          <SubScoreBar label="Trend" value={item.trend} weight={0.25} description={SUB_SCORE_INFO.trend} />
+          <SubScoreBar label="Momentum" value={item.momentum} weight={0.2} description={SUB_SCORE_INFO.momentum} />
+          <SubScoreBar label="Stability" value={item.stability} weight={0.2} description={SUB_SCORE_INFO.stability} />
           <div className="mt-2 flex items-center justify-between border-t pt-3 text-sm font-semibold text-foreground">
             <span>Health Score</span>
             <span className="tabular-nums">{item.health_score.toFixed(1)}</span>
