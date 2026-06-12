@@ -1,8 +1,9 @@
 import { useState } from "react";
-import { Search } from "lucide-react";
+import { Search, Info } from "lucide-react";
 import { useIndustryScores } from "@/hooks/useIndustryScores";
 import { IndustryRow } from "@/components/IndustryRow";
 import { Input } from "@/components/ui/input";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 
 export function IndustryRanking() {
   const { data, error } = useIndustryScores();
@@ -28,7 +29,7 @@ export function IndustryRanking() {
   return (
     <div className="mx-auto w-full max-w-3xl">
       <header className="px-4 py-8">
-        <h1 className="text-2xl font-semibold tracking-tight text-foreground">Industry Health Ranking</h1>
+        <h1 className="text-2xl font-semibold tracking-tight text-foreground">S&amp;P 500 Industry Health Ranking</h1>
         <p className="mt-1 text-sm text-muted-foreground">
           {data.industries.length} industries, ranked by Health Score · {data.date}
         </p>
@@ -46,7 +47,22 @@ export function IndustryRanking() {
       <div className="grid grid-cols-[2.5rem_1fr_8rem_3.5rem_2rem] gap-4 border-b px-4 pb-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
         <span>#</span>
         <span>Industry</span>
-        <span>Health</span>
+        <span className="flex items-center gap-1">
+          Health
+          <Popover>
+            <PopoverTrigger
+              aria-label="What is the Health Score?"
+              className="normal-case text-muted-foreground transition-colors hover:text-foreground"
+            >
+              <Info className="size-3.5" />
+            </PopoverTrigger>
+            <PopoverContent className="w-72 text-sm font-normal normal-case tracking-normal text-foreground">
+              The Health Score (0–100) blends four sub-scores (breadth, trend, momentum, and stability) into a
+              single measure of an industry's current condition. It's descriptive, not predictive. Click an
+              industry for a full breakdown.
+            </PopoverContent>
+          </Popover>
+        </span>
         <span className="text-right">Score</span>
         <span className="text-center">Trend</span>
       </div>
