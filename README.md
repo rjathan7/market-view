@@ -1,5 +1,7 @@
 # Market View Intelligence Platform
 
+**Live app**: [market-view-silk.vercel.app](https://market-view-silk.vercel.app/)
+
 ## Product Summary
 
 A daily-updated leaderboard of all S&P 500 industries, ranked by how well each group of stocks is doing right now, with the ability to drill into any industry to see which specific stocks are driving that score.
