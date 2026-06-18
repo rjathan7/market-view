@@ -1,8 +1,8 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "industries": [
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Homefurnishing Retail",
       "num_stocks": 1,
       "breadth": 100.0,
@@ -17,7 +17,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Life & Health Insurance",
       "num_stocks": 5,
       "breadth": 90.0,
@@ -32,7 +32,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Diversified Banks",
       "num_stocks": 7,
       "breadth": 78.5714285714,
@@ -47,7 +47,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Copper",
       "num_stocks": 1,
       "breadth": 100.0,
@@ -62,7 +62,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Regional Banks",
       "num_stocks": 6,
       "breadth": 83.3333333333,
@@ -77,7 +77,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Other Specialized REITs",
       "num_stocks": 1,
       "breadth": 100.0,
@@ -92,7 +92,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Apparel Retail",
       "num_stocks": 2,
       "breadth": 100.0,
@@ -107,7 +107,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Passenger Airlines",
       "num_stocks": 3,
       "breadth": 83.3333333333,
@@ -122,7 +122,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Investment Banking & Brokerage",
       "num_stocks": 6,
       "breadth": 75.0,
@@ -137,7 +137,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Industrial Machinery & Supplies & Components",
       "num_stocks": 14,
       "breadth": 60.7142857143,
@@ -152,7 +152,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Steel",
       "num_stocks": 2,
       "breadth": 75.0,
@@ -167,7 +167,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Construction Machinery & Heavy Transportation Equipment",
       "num_stocks": 4,
       "breadth": 75.0,
@@ -182,7 +182,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Semiconductor Materials & Equipment",
       "num_stocks": 5,
       "breadth": 70.0,
@@ -197,7 +197,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Hotels, Resorts & Cruise Lines",
       "num_stocks": 8,
       "breadth": 62.5,
@@ -212,7 +212,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Asset Management & Custody Banks",
       "num_stocks": 12,
       "breadth": 66.6666666667,
@@ -227,7 +227,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Interactive Home Entertainment",
       "num_stocks": 2,
       "breadth": 75.0,
@@ -242,7 +242,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Air Freight & Logistics",
       "num_stocks": 4,
       "breadth": 75.0,
@@ -257,7 +257,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Health Care Distributors",
       "num_stocks": 4,
       "breadth": 50.0,
@@ -272,7 +272,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Food Distributors",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -287,7 +287,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Consumer Finance",
       "num_stocks": 3,
       "breadth": 50.0,
@@ -302,7 +302,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Industrial Conglomerates",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -317,7 +317,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Technology Hardware, Storage & Peripherals",
       "num_stocks": 9,
       "breadth": 55.5555555556,
@@ -332,7 +332,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Timber REITs",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -347,7 +347,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Data Center REITs",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -362,7 +362,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Multi-Sector Holdings",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -377,7 +377,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Health Care Services",
       "num_stocks": 5,
       "breadth": 60.0,
@@ -392,7 +392,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Retail REITs",
       "num_stocks": 5,
       "breadth": 60.0,
@@ -407,7 +407,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Paper & Plastic Packaging Products & Materials",
       "num_stocks": 5,
       "breadth": 40.0,
@@ -422,7 +422,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Aerospace & Defense",
       "num_stocks": 12,
       "breadth": 45.8333333333,
@@ -437,7 +437,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Industrial Gases",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -452,7 +452,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Electronic Manufacturing Services",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -467,7 +467,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Hotel & Resort REITs",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -482,7 +482,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Distributors",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -497,7 +497,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Self-Storage REITs",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -512,7 +512,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Property & Casualty Insurance",
       "num_stocks": 8,
       "breadth": 62.5,
@@ -527,7 +527,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Electrical Components & Equipment",
       "num_stocks": 6,
       "breadth": 58.3333333333,
@@ -542,7 +542,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Soft Drinks & Non-alcoholic Beverages",
       "num_stocks": 4,
       "breadth": 62.5,
@@ -557,7 +557,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Trading Companies & Distributors",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -572,7 +572,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Construction Materials",
       "num_stocks": 3,
       "breadth": 33.3333333333,
@@ -587,7 +587,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Multi-line Insurance",
       "num_stocks": 3,
       "breadth": 50.0,
@@ -602,7 +602,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Electronic Components",
       "num_stocks": 3,
       "breadth": 50.0,
@@ -617,7 +617,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Agricultural & Farm Machinery",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -632,7 +632,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Biotechnology",
       "num_stocks": 8,
       "breadth": 37.5,
@@ -647,7 +647,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Building Products",
       "num_stocks": 8,
       "breadth": 43.75,
@@ -662,7 +662,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Heavy Electrical Equipment",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -677,7 +677,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Multi-Utilities",
       "num_stocks": 12,
       "breadth": 41.6666666667,
@@ -692,7 +692,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Apparel, Accessories & Luxury Goods",
       "num_stocks": 4,
       "breadth": 50.0,
@@ -707,7 +707,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Electric Utilities",
       "num_stocks": 15,
       "breadth": 30.0,
@@ -722,7 +722,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Home Improvement Retail",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -737,7 +737,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Independent Power Producers & Energy Traders",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -752,7 +752,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Semiconductors",
       "num_stocks": 14,
       "breadth": 42.8571428571,
@@ -767,7 +767,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Industrial REITs",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -782,7 +782,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Specialized Consumer Services",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -797,7 +797,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Personal Care Products",
       "num_stocks": 3,
       "breadth": 50.0,
@@ -812,7 +812,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Technology Distributors",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -827,7 +827,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Homebuilding",
       "num_stocks": 4,
       "breadth": 25.0,
@@ -842,7 +842,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Single-Family Residential REITs",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -857,7 +857,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Construction & Engineering",
       "num_stocks": 4,
       "breadth": 37.5,
@@ -872,7 +872,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Metal, Glass & Plastic Containers",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -887,7 +887,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Managed Health Care",
       "num_stocks": 4,
       "breadth": 50.0,
@@ -902,7 +902,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Pharmaceuticals",
       "num_stocks": 7,
       "breadth": 35.7142857143,
@@ -917,7 +917,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Household Products",
       "num_stocks": 4,
       "breadth": 37.5,
@@ -932,7 +932,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Computer & Electronics Retail",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -947,7 +947,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Restaurants",
       "num_stocks": 6,
       "breadth": 16.6666666667,
@@ -962,7 +962,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Automotive Parts & Equipment",
       "num_stocks": 1,
       "breadth": 50.0,
@@ -977,7 +977,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Specialty Chemicals",
       "num_stocks": 7,
       "breadth": 28.5714285714,
@@ -992,7 +992,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Health Care Supplies",
       "num_stocks": 3,
       "breadth": 33.3333333333,
@@ -1007,7 +1007,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Multi-Family Residential REITs",
       "num_stocks": 6,
       "breadth": 33.3333333333,
@@ -1022,7 +1022,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Human Resource & Employment Services",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -1037,7 +1037,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Office REITs",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -1052,7 +1052,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Tobacco",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -1067,7 +1067,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Life Sciences Tools & Services",
       "num_stocks": 8,
       "breadth": 25.0,
@@ -1082,7 +1082,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Cargo Ground Transportation",
       "num_stocks": 2,
       "breadth": 50.0,
@@ -1097,7 +1097,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Insurance Brokers",
       "num_stocks": 6,
       "breadth": 16.6666666667,
@@ -1112,7 +1112,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Automobile Manufacturers",
       "num_stocks": 3,
       "breadth": 33.3333333333,
@@ -1127,7 +1127,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Systems Software",
       "num_stocks": 6,
       "breadth": 41.6666666667,
@@ -1142,7 +1142,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Movies & Entertainment",
       "num_stocks": 5,
       "breadth": 30.0,
@@ -1157,7 +1157,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Consumer Electronics",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1172,7 +1172,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Rail Transportation",
       "num_stocks": 3,
       "breadth": 33.3333333333,
@@ -1187,7 +1187,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Electronic Equipment & Instruments",
       "num_stocks": 4,
       "breadth": 25.0,
@@ -1202,7 +1202,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Water Utilities",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1217,7 +1217,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Packaged Foods & Meats",
       "num_stocks": 10,
       "breadth": 30.0,
@@ -1232,7 +1232,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Casinos & Gaming",
       "num_stocks": 3,
       "breadth": 16.6666666667,
@@ -1247,7 +1247,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Gas Utilities",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1262,7 +1262,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Broadline Retail",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -1277,7 +1277,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Transaction & Payment Processing Services",
       "num_stocks": 9,
       "breadth": 16.6666666667,
@@ -1292,7 +1292,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Communications Equipment",
       "num_stocks": 6,
       "breadth": 25.0,
@@ -1307,7 +1307,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Reinsurance",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1322,7 +1322,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Consumer Staples Merchandise Retail",
       "num_stocks": 5,
       "breadth": 20.0,
@@ -1337,7 +1337,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Fertilizers & Agricultural Chemicals",
       "num_stocks": 3,
       "breadth": 0.0,
@@ -1352,7 +1352,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Health Care Equipment",
       "num_stocks": 16,
       "breadth": 15.625,
@@ -1367,7 +1367,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Footwear",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1382,7 +1382,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Health Care REITs",
       "num_stocks": 3,
       "breadth": 16.6666666667,
@@ -1397,7 +1397,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Gold",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1412,7 +1412,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Research & Consulting Services",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -1427,7 +1427,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Publishing",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1442,7 +1442,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Oil & Gas Storage & Transportation",
       "num_stocks": 4,
       "breadth": 12.5,
@@ -1457,7 +1457,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Integrated Telecommunication Services",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1472,7 +1472,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Passenger Ground Transportation",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1487,7 +1487,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Telecom Tower REITs",
       "num_stocks": 3,
       "breadth": 16.6666666667,
@@ -1502,7 +1502,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Agricultural Products & Services",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -1517,7 +1517,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Environmental & Facilities Services",
       "num_stocks": 4,
       "breadth": 0.0,
@@ -1532,7 +1532,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Health Care Facilities",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1547,7 +1547,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Interactive Media & Services",
       "num_stocks": 3,
       "breadth": 0.0,
@@ -1562,7 +1562,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Advertising",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -1577,7 +1577,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Distillers & Vintners",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1592,7 +1592,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Leisure Products",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1607,7 +1607,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Brewers",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1622,7 +1622,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Health Care Technology",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -1637,7 +1637,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Oil & Gas Refining & Marketing",
       "num_stocks": 3,
       "breadth": 16.6666666667,
@@ -1652,7 +1652,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Data Processing & Outsourced Services",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1667,7 +1667,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Food Retail",
       "num_stocks": 2,
       "breadth": 25.0,
@@ -1682,7 +1682,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Real Estate Services",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1697,7 +1697,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Integrated Oil & Gas",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1712,7 +1712,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Financial Exchanges & Data",
       "num_stocks": 9,
       "breadth": 11.1111111111,
@@ -1727,7 +1727,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Other Specialty Retail",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1742,7 +1742,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Commodity Chemicals",
       "num_stocks": 1,
       "breadth": 0.0,
@@ -1757,7 +1757,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "IT Consulting & Other Services",
       "num_stocks": 4,
       "breadth": 12.5,
@@ -1772,7 +1772,7 @@
       "trend_arrow": "decelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Diversified Support Services",
       "num_stocks": 3,
       "breadth": 0.0,
@@ -1787,7 +1787,7 @@
       "trend_arrow": "falling"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Automotive Retail",
       "num_stocks": 3,
       "breadth": 0.0,
@@ -1802,7 +1802,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Internet Services & Infrastructure",
       "num_stocks": 3,
       "breadth": 16.6666666667,
@@ -1817,7 +1817,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Cable & Satellite",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1832,7 +1832,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Oil & Gas Exploration & Production",
       "num_stocks": 9,
       "breadth": 0.0,
@@ -1847,7 +1847,7 @@
       "trend_arrow": "rising"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Wireless Telecommunication Services",
       "num_stocks": 2,
       "breadth": 0.0,
@@ -1862,7 +1862,7 @@
       "trend_arrow": "accelerating"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Oil & Gas Equipment & Services",
       "num_stocks": 3,
       "breadth": 0.0,
@@ -1877,7 +1877,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Application Software",
       "num_stocks": 15,
       "breadth": 10.0,
@@ -1892,7 +1892,7 @@
       "trend_arrow": "flat"
     },
     {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "industry": "Broadcasting",
       "num_stocks": 3,
       "breadth": 0.0,
