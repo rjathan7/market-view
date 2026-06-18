@@ -1,0 +1,63 @@
+name: Daily Update
+
+on:
+  schedule:
+    # 22:00 UTC, Mon-Fri (after US market close)
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r etl/requirements.txt
+
+      - name: Fetch current database from data branch
+        run: |
+          mkdir -p data
+          git fetch origin data
+          git show origin/data:data/market.db > data/market.db
+
+      - name: Run daily update
+        run: python daily_update.py
+        working-directory: etl
+
+      - name: Export JSON for frontend
+        run: python export_json.py
+        working-directory: etl
+
+      - name: Push updated database to data branch
+        run: |
+          rm -rf /tmp/data-branch
+          mkdir -p /tmp/data-branch/data
+          mkdir -p /tmp/data-branch/frontend
+          cp data/market.db /tmp/data-branch/data/market.db
+          touch /tmp/data-branch/frontend/.gitkeep
+          cd /tmp/data-branch
+          git init -q -b data
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/market.db frontend/.gitkeep
+          git commit -q -m "Data snapshot: $(date -u +%Y-%m-%d)"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push -f origin data:data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated frontend data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data
+          git diff --staged --quiet || git commit -m "Update frontend data: $(date -u +%Y-%m-%d)"
+          git push
