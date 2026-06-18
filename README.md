@@ -1,6 +1,6 @@
 # Market View Intelligence Platform
 
-**Live app**: [market-view-silk.vercel.app](https://market-view-silk.vercel.app/)
+**Live app**: [market-view-sp500.vercel.app](https://market-view-sp500.vercel.app/)
 
 ## Product Summary
 
