@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "stocks": [
     {
       "ticker": "OMC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Advertising",
       "price": 79.8499984741,
       "one_day_return": -0.0150487384,
@@ -15,7 +15,7 @@
     },
     {
       "ticker": "TTD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Advertising",
       "price": 15.0,
       "one_day_return": 0.0020039901,
@@ -27,7 +27,7 @@
     },
     {
       "ticker": "AXON",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 442.0799865723,
       "one_day_return": -0.0981272325,
@@ -39,7 +39,7 @@
     },
     {
       "ticker": "BA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 209.6900024414,
       "one_day_return": -0.002758367,
@@ -51,7 +51,7 @@
     },
     {
       "ticker": "GD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 358.6000061035,
       "one_day_return": 0.0050166995,
@@ -63,7 +63,7 @@
     },
     {
       "ticker": "GE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 307.049987793,
       "one_day_return": -0.0330961388,
@@ -75,7 +75,7 @@
     },
     {
       "ticker": "HII",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 279.4599914551,
       "one_day_return": -0.0019642809,
@@ -87,7 +87,7 @@
     },
     {
       "ticker": "HWM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 224.6699981689,
       "one_day_return": -0.0108308311,
@@ -99,7 +99,7 @@
     },
     {
       "ticker": "LHX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 249.6600036621,
       "one_day_return": 0.0029325955,
@@ -111,7 +111,7 @@
     },
     {
       "ticker": "LMT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 533.4600219727,
       "one_day_return": 0.0077071613,
@@ -123,7 +123,7 @@
     },
     {
       "ticker": "NOC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 531.25,
       "one_day_return": 0.0073190338,
@@ -135,7 +135,7 @@
     },
     {
       "ticker": "RTX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 195.5,
       "one_day_return": 0.0008191034,
@@ -147,7 +147,7 @@
     },
     {
       "ticker": "TDG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 1085.0,
       "one_day_return": -0.0235956619,
@@ -159,7 +159,7 @@
     },
     {
       "ticker": "TXT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Aerospace & Defense",
       "price": 80.7200012207,
       "one_day_return": 0.0017373962,
@@ -171,7 +171,7 @@
     },
     {
       "ticker": "DE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Agricultural & Farm Machinery",
       "price": 684.0399780273,
       "one_day_return": 0.0037859243,
@@ -183,7 +183,7 @@
     },
     {
       "ticker": "ADM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Agricultural Products & Services",
       "price": 86.6100006104,
       "one_day_return": 0.0019666609,
@@ -195,7 +195,7 @@
     },
     {
       "ticker": "BG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Agricultural Products & Services",
       "price": 121.7600021362,
       "one_day_return": 0.004371845,
@@ -207,7 +207,7 @@
     },
     {
       "ticker": "CHRW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Air Freight & Logistics",
       "price": 157.6300048828,
       "one_day_return": 0.0020342466,
@@ -219,7 +219,7 @@
     },
     {
       "ticker": "EXPD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Air Freight & Logistics",
       "price": 193.8999938965,
       "one_day_return": 0.0014978218,
@@ -231,7 +231,7 @@
     },
     {
       "ticker": "FDX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Air Freight & Logistics",
       "price": 308.2600097656,
       "one_day_return": -0.0137889032,
@@ -243,7 +243,7 @@
     },
     {
       "ticker": "UPS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Air Freight & Logistics",
       "price": 102.3499984741,
       "one_day_return": -0.0010735957,
@@ -255,7 +255,7 @@
     },
     {
       "ticker": "ROST",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Apparel Retail",
       "price": 226.2599945068,
       "one_day_return": -0.0164319201,
@@ -267,7 +267,7 @@
     },
     {
       "ticker": "TJX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Apparel Retail",
       "price": 124.5999984741,
       "one_day_return": -0.011032617,
@@ -279,7 +279,7 @@
     },
     {
       "ticker": "LULU",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Apparel, Accessories & Luxury Goods",
       "price": 98.3700027466,
       "one_day_return": -0.0192422756,
@@ -291,7 +291,7 @@
     },
     {
       "ticker": "NKE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Apparel, Accessories & Luxury Goods",
       "price": 36.2200012207,
       "one_day_return": -0.0224021062,
@@ -303,7 +303,7 @@
     },
     {
       "ticker": "RL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Apparel, Accessories & Luxury Goods",
       "price": 335.2300109863,
       "one_day_return": -0.0181588666,
@@ -315,7 +315,7 @@
     },
     {
       "ticker": "TPR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Apparel, Accessories & Luxury Goods",
       "price": 117.1100006104,
       "one_day_return": -0.0067848616,
@@ -327,7 +327,7 @@
     },
     {
       "ticker": "ADBE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 257.7600097656,
       "one_day_return": -0.0295180578,
@@ -339,7 +339,7 @@
     },
     {
       "ticker": "ADSK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 226.5,
       "one_day_return": -0.0106145667,
@@ -351,7 +351,7 @@
     },
     {
       "ticker": "APP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 331.4599914551,
       "one_day_return": -0.0083173733,
@@ -363,7 +363,7 @@
     },
     {
       "ticker": "CDNS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 273.9599914551,
       "one_day_return": -0.0182756617,
@@ -375,7 +375,7 @@
     },
     {
       "ticker": "CRM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 255.6499938965,
       "one_day_return": -0.0145704001,
@@ -387,7 +387,7 @@
     },
     {
       "ticker": "DDOG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 230.2700042725,
       "one_day_return": 0.0009563191,
@@ -399,7 +399,7 @@
     },
     {
       "ticker": "FICO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 985.9600219727,
       "one_day_return": -0.015516703,
@@ -411,7 +411,7 @@
     },
     {
       "ticker": "INTU",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 329.2699890137,
       "one_day_return": -0.0291316676,
@@ -423,7 +423,7 @@
     },
     {
       "ticker": "ORCL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 140.3500061035,
       "one_day_return": -0.0306650141,
@@ -435,7 +435,7 @@
     },
     {
       "ticker": "PLTR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 172.5599975586,
       "one_day_return": -0.0043275057,
@@ -447,7 +447,7 @@
     },
     {
       "ticker": "PTC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 132.75,
       "one_day_return": -0.0285400225,
@@ -459,7 +459,7 @@
     },
     {
       "ticker": "SNPS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 367.700012207,
       "one_day_return": -0.0359960694,
@@ -471,7 +471,7 @@
     },
     {
       "ticker": "TRMB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 58.7999992371,
       "one_day_return": 0.0010214089,
@@ -483,7 +483,7 @@
     },
     {
       "ticker": "TYL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 353.1300048828,
       "one_day_return": -0.017828346,
@@ -495,7 +495,7 @@
     },
     {
       "ticker": "WDAY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Application Software",
       "price": 190.6699981689,
       "one_day_return": -0.018227735,
@@ -507,7 +507,7 @@
     },
     {
       "ticker": "AMP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 559.3400268555,
       "one_day_return": 0.0014323931,
@@ -519,7 +519,7 @@
     },
     {
       "ticker": "APO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 127.0,
       "one_day_return": -0.0102096297,
@@ -531,7 +531,7 @@
     },
     {
       "ticker": "ARES",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 129.1000061035,
       "one_day_return": -0.0184002288,
@@ -543,7 +543,7 @@
     },
     {
       "ticker": "BEN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 33.2900009155,
       "one_day_return": -0.0053779593,
@@ -555,7 +555,7 @@
     },
     {
       "ticker": "BLK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 1058.6600341797,
       "one_day_return": -0.0065127079,
@@ -567,7 +567,7 @@
     },
     {
       "ticker": "BNY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 154.6699981689,
       "one_day_return": -0.0189648955,
@@ -579,7 +579,7 @@
     },
     {
       "ticker": "BX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 126.6999969482,
       "one_day_return": -0.0123937674,
@@ -591,7 +591,7 @@
     },
     {
       "ticker": "IVZ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 30.7800006866,
       "one_day_return": -0.0231672338,
@@ -603,7 +603,7 @@
     },
     {
       "ticker": "KKR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 100.0,
       "one_day_return": -0.0221961154,
@@ -615,7 +615,7 @@
     },
     {
       "ticker": "NTRS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 178.7400054932,
       "one_day_return": -0.0163447312,
@@ -627,7 +627,7 @@
     },
     {
       "ticker": "STT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 185.1300048828,
       "one_day_return": -0.0161033095,
@@ -639,10 +639,10 @@
     },
     {
       "ticker": "TROW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Asset Management & Custody Banks",
       "price": 104.2300033569,
-      "one_day_return": -0.0148393162,
+      "one_day_return": -0.0025837728,
       "one_week_return": -0.0474318671,
       "one_month_return": -0.0572539286,
       "above_ma50": 0,
@@ -651,7 +651,7 @@
     },
     {
       "ticker": "F",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Automobile Manufacturers",
       "price": 13.5,
       "one_day_return": -0.0259740018,
@@ -663,7 +663,7 @@
     },
     {
       "ticker": "GM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Automobile Manufacturers",
       "price": 85.3700027466,
       "one_day_return": -0.0205369532,
@@ -675,7 +675,7 @@
     },
     {
       "ticker": "TSLA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Automobile Manufacturers",
       "price": 356.5799865723,
       "one_day_return": -0.0066579788,
@@ -687,7 +687,7 @@
     },
     {
       "ticker": "APTV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Automotive Parts & Equipment",
       "price": 43.75,
       "one_day_return": -0.0232194886,
@@ -699,7 +699,7 @@
     },
     {
       "ticker": "AZO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Automotive Retail",
       "price": 2860.25,
       "one_day_return": -0.0354979966,
@@ -711,7 +711,7 @@
     },
     {
       "ticker": "CVNA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Automotive Retail",
       "price": 66.9000015259,
       "one_day_return": -0.0560180763,
@@ -723,7 +723,7 @@
     },
     {
       "ticker": "ORLY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Automotive Retail",
       "price": 85.1600036621,
       "one_day_return": -0.0236184078,
@@ -735,7 +735,7 @@
     },
     {
       "ticker": "ABBV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 263.0400085449,
       "one_day_return": 0.0048516621,
@@ -747,7 +747,7 @@
     },
     {
       "ticker": "AMGN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 375.6499938965,
       "one_day_return": -0.0153342231,
@@ -759,7 +759,7 @@
     },
     {
       "ticker": "BIIB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 216.1699981689,
       "one_day_return": -0.0054747996,
@@ -771,10 +771,10 @@
     },
     {
       "ticker": "GILD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 146.3000030518,
-      "one_day_return": -0.000751319,
+      "one_day_return": 0.0048766495,
       "one_week_return": -0.0023185784,
       "one_month_return": 0.0573865453,
       "above_ma50": 1,
@@ -783,7 +783,7 @@
     },
     {
       "ticker": "INCY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 121.7399978638,
       "one_day_return": -0.0036828265,
@@ -795,7 +795,7 @@
     },
     {
       "ticker": "MRNA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 143.7700042725,
       "one_day_return": -0.0199059112,
@@ -807,7 +807,7 @@
     },
     {
       "ticker": "REGN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 774.1099853516,
       "one_day_return": -0.0247310267,
@@ -819,7 +819,7 @@
     },
     {
       "ticker": "VRTX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Biotechnology",
       "price": 514.6300048828,
       "one_day_return": -0.0093934761,
@@ -831,7 +831,7 @@
     },
     {
       "ticker": "TAP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Brewers",
       "price": 39.2700004578,
       "one_day_return": 0.0048617865,
@@ -843,7 +843,7 @@
     },
     {
       "ticker": "FOX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Broadcasting",
       "price": 60.3400001526,
       "one_day_return": -0.0130847112,
@@ -855,7 +855,7 @@
     },
     {
       "ticker": "FOXA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Broadcasting",
       "price": 67.5699996948,
       "one_day_return": -0.0140084503,
@@ -867,7 +867,7 @@
     },
     {
       "ticker": "WBD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Broadcasting",
       "price": 28.0300006866,
       "one_day_return": -0.0024910923,
@@ -879,7 +879,7 @@
     },
     {
       "ticker": "AMZN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Broadline Retail",
       "price": 248.4199981689,
       "one_day_return": -0.0201940335,
@@ -891,7 +891,7 @@
     },
     {
       "ticker": "EBAY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Broadline Retail",
       "price": 108.0299987793,
       "one_day_return": -0.0088081393,
@@ -903,10 +903,10 @@
     },
     {
       "ticker": "ALLE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 154.6000061035,
-      "one_day_return": -0.0050839391,
+      "one_day_return": -0.0015499241,
       "one_week_return": -0.0092918739,
       "one_month_return": -0.0617792982,
       "above_ma50": 1,
@@ -915,7 +915,7 @@
     },
     {
       "ticker": "AOS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 57.2200012207,
       "one_day_return": -0.0027884253,
@@ -927,7 +927,7 @@
     },
     {
       "ticker": "BLDR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 60.2000007629,
       "one_day_return": -0.0006640258,
@@ -939,7 +939,7 @@
     },
     {
       "ticker": "CARR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 55.5400009155,
       "one_day_return": -0.0300383768,
@@ -951,7 +951,7 @@
     },
     {
       "ticker": "JCI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 138.2899932861,
       "one_day_return": 0.0038472619,
@@ -963,7 +963,7 @@
     },
     {
       "ticker": "LII",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 362.1900024414,
       "one_day_return": -0.0090832186,
@@ -975,7 +975,7 @@
     },
     {
       "ticker": "MAS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 68.8799972534,
       "one_day_return": -0.0076358793,
@@ -987,7 +987,7 @@
     },
     {
       "ticker": "TT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Building Products",
       "price": 422.7300109863,
       "one_day_return": -0.0076993467,
@@ -999,7 +999,7 @@
     },
     {
       "ticker": "CHTR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Cable & Satellite",
       "price": 141.1999969482,
       "one_day_return": -0.0149983192,
@@ -1011,7 +1011,7 @@
     },
     {
       "ticker": "CMCSA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Cable & Satellite",
       "price": 24.4200000763,
       "one_day_return": -0.0184887098,
@@ -1023,7 +1023,7 @@
     },
     {
       "ticker": "FDXF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Cargo Ground Transportation",
       "price": 126.9400024414,
       "one_day_return": -0.0193139675,
@@ -1035,7 +1035,7 @@
     },
     {
       "ticker": "JBHT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Cargo Ground Transportation",
       "price": 273.049987793,
       "one_day_return": -0.0070548111,
@@ -1047,7 +1047,7 @@
     },
     {
       "ticker": "ODFL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Cargo Ground Transportation",
       "price": 180.9600067139,
       "one_day_return": -0.0052223458,
@@ -1059,7 +1059,7 @@
     },
     {
       "ticker": "LVS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Casinos & Gaming",
       "price": 41.2700004578,
       "one_day_return": -0.0266509676,
@@ -1071,7 +1071,7 @@
     },
     {
       "ticker": "MGM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Casinos & Gaming",
       "price": 39.2200012207,
       "one_day_return": -0.0153151037,
@@ -1083,7 +1083,7 @@
     },
     {
       "ticker": "WYNN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Casinos & Gaming",
       "price": 86.7099990845,
       "one_day_return": -0.011964483,
@@ -1095,7 +1095,7 @@
     },
     {
       "ticker": "DOW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Commodity Chemicals",
       "price": 29.8500003815,
       "one_day_return": 0.0328719992,
@@ -1107,7 +1107,7 @@
     },
     {
       "ticker": "ANET",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Communications Equipment",
       "price": 192.8399963379,
       "one_day_return": 0.0267823803,
@@ -1119,7 +1119,7 @@
     },
     {
       "ticker": "CIEN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Communications Equipment",
       "price": 334.3299865723,
       "one_day_return": 0.0459578628,
@@ -1131,7 +1131,7 @@
     },
     {
       "ticker": "CSCO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Communications Equipment",
       "price": 110.0699996948,
       "one_day_return": 9.08789e-05,
@@ -1143,7 +1143,7 @@
     },
     {
       "ticker": "FFIV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Communications Equipment",
       "price": 430.8800048828,
       "one_day_return": 0.0471214734,
@@ -1155,7 +1155,7 @@
     },
     {
       "ticker": "LITE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Communications Equipment",
       "price": 838.9600219727,
       "one_day_return": 0.0047064088,
@@ -1167,7 +1167,7 @@
     },
     {
       "ticker": "MSI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Communications Equipment",
       "price": 469.1400146484,
       "one_day_return": -0.010524519,
@@ -1179,7 +1179,7 @@
     },
     {
       "ticker": "BBY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Computer & Electronics Retail",
       "price": 93.2399978638,
       "one_day_return": -0.0167668874,
@@ -1191,7 +1191,7 @@
     },
     {
       "ticker": "EME",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction & Engineering",
       "price": 735.5200195312,
       "one_day_return": -0.0189142223,
@@ -1203,7 +1203,7 @@
     },
     {
       "ticker": "FIX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction & Engineering",
       "price": 1576.7800292969,
       "one_day_return": -0.0038033986,
@@ -1215,7 +1215,7 @@
     },
     {
       "ticker": "J",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction & Engineering",
       "price": 144.9100036621,
       "one_day_return": 0.0058304733,
@@ -1227,7 +1227,7 @@
     },
     {
       "ticker": "PWR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction & Engineering",
       "price": 613.3499755859,
       "one_day_return": -0.0139385288,
@@ -1239,7 +1239,7 @@
     },
     {
       "ticker": "CAT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction Machinery & Heavy Transportation Equipment",
       "price": 783.5399780273,
       "one_day_return": -0.0005867627,
@@ -1251,7 +1251,7 @@
     },
     {
       "ticker": "CMI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction Machinery & Heavy Transportation Equipment",
       "price": 538.0200195312,
       "one_day_return": -0.0056920277,
@@ -1263,7 +1263,7 @@
     },
     {
       "ticker": "PCAR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction Machinery & Heavy Transportation Equipment",
       "price": 122.4599990845,
       "one_day_return": -0.0032557506,
@@ -1275,7 +1275,7 @@
     },
     {
       "ticker": "WAB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction Machinery & Heavy Transportation Equipment",
       "price": 278.1199951172,
       "one_day_return": -0.0010775745,
@@ -1287,7 +1287,7 @@
     },
     {
       "ticker": "CRH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction Materials",
       "price": 87.6900024414,
       "one_day_return": -0.0144976497,
@@ -1299,7 +1299,7 @@
     },
     {
       "ticker": "MLM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction Materials",
       "price": 506.8099975586,
       "one_day_return": 0.0117583326,
@@ -1311,7 +1311,7 @@
     },
     {
       "ticker": "VMC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Construction Materials",
       "price": 249.1999969482,
       "one_day_return": -0.0053484329,
@@ -1323,7 +1323,7 @@
     },
     {
       "ticker": "GRMN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Electronics",
       "price": 278.9700012207,
       "one_day_return": -0.0050289023,
@@ -1335,7 +1335,7 @@
     },
     {
       "ticker": "AXP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Finance",
       "price": 324.4299926758,
       "one_day_return": -0.0102202884,
@@ -1347,7 +1347,7 @@
     },
     {
       "ticker": "COF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Finance",
       "price": 206.8500061035,
       "one_day_return": 0.0008225926,
@@ -1359,7 +1359,7 @@
     },
     {
       "ticker": "SYF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Finance",
       "price": 76.0599975586,
       "one_day_return": 0.0023721707,
@@ -1371,7 +1371,7 @@
     },
     {
       "ticker": "COST",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Staples Merchandise Retail",
       "price": 901.3499755859,
       "one_day_return": -0.0191095951,
@@ -1383,7 +1383,7 @@
     },
     {
       "ticker": "DG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Staples Merchandise Retail",
       "price": 124.6999969482,
       "one_day_return": -0.0346055685,
@@ -1395,7 +1395,7 @@
     },
     {
       "ticker": "DLTR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Staples Merchandise Retail",
       "price": 112.7900009155,
       "one_day_return": -0.0535369418,
@@ -1407,7 +1407,7 @@
     },
     {
       "ticker": "TGT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Staples Merchandise Retail",
       "price": 154.3999938965,
       "one_day_return": -0.0270951678,
@@ -1419,7 +1419,7 @@
     },
     {
       "ticker": "WMT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Consumer Staples Merchandise Retail",
       "price": 108.0899963379,
       "one_day_return": -0.0090759578,
@@ -1431,7 +1431,7 @@
     },
     {
       "ticker": "FCX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Copper",
       "price": 69.3799972534,
       "one_day_return": 0.0005768808,
@@ -1443,10 +1443,10 @@
     },
     {
       "ticker": "DLR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Data Center REITs",
       "price": 179.2700042725,
-      "one_day_return": 0.0007257167,
+      "one_day_return": 0.0075877142,
       "one_week_return": -0.0539841463,
       "one_month_return": -0.10432171,
       "above_ma50": 0,
@@ -1455,7 +1455,7 @@
     },
     {
       "ticker": "EQIX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Data Center REITs",
       "price": 1006.9799804688,
       "one_day_return": 0.0082705964,
@@ -1467,7 +1467,7 @@
     },
     {
       "ticker": "BR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Data Processing & Outsourced Services",
       "price": 170.25,
       "one_day_return": -0.0237398899,
@@ -1479,7 +1479,7 @@
     },
     {
       "ticker": "BF-B",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Distillers & Vintners",
       "price": 26.1800003052,
       "one_day_return": -0.002286565,
@@ -1491,7 +1491,7 @@
     },
     {
       "ticker": "STZ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Distillers & Vintners",
       "price": 123.6200027466,
       "one_day_return": -0.011039978,
@@ -1503,7 +1503,7 @@
     },
     {
       "ticker": "GPC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Distributors",
       "price": 131.0099945068,
       "one_day_return": -0.0165153674,
@@ -1515,7 +1515,7 @@
     },
     {
       "ticker": "POOL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Distributors",
       "price": 166.8600006104,
       "one_day_return": -0.0285281442,
@@ -1527,7 +1527,7 @@
     },
     {
       "ticker": "BAC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Banks",
       "price": 59.5200004578,
       "one_day_return": 0.0008407472,
@@ -1539,7 +1539,7 @@
     },
     {
       "ticker": "C",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Banks",
       "price": 136.1699981689,
       "one_day_return": -7.33919e-05,
@@ -1551,7 +1551,7 @@
     },
     {
       "ticker": "JPM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Banks",
       "price": 352.4899902344,
       "one_day_return": 0.0067403117,
@@ -1563,7 +1563,7 @@
     },
     {
       "ticker": "PNC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Banks",
       "price": 240.7799987793,
       "one_day_return": -0.0079927589,
@@ -1575,7 +1575,7 @@
     },
     {
       "ticker": "TFC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Banks",
       "price": 50.4599990845,
       "one_day_return": 0.0071856411,
@@ -1587,7 +1587,7 @@
     },
     {
       "ticker": "USB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Banks",
       "price": 62.2200012207,
       "one_day_return": -0.0073388494,
@@ -1599,7 +1599,7 @@
     },
     {
       "ticker": "WFC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Banks",
       "price": 89.7200012207,
       "one_day_return": 0.0113854373,
@@ -1611,7 +1611,7 @@
     },
     {
       "ticker": "CPRT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Support Services",
       "price": 31.0400009155,
       "one_day_return": -0.0217459388,
@@ -1623,7 +1623,7 @@
     },
     {
       "ticker": "CTAS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Support Services",
       "price": 198.9499969482,
       "one_day_return": -0.0093118729,
@@ -1635,10 +1635,10 @@
     },
     {
       "ticker": "LDOS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Diversified Support Services",
       "price": 129.2400054932,
-      "one_day_return": -0.0270269991,
+      "one_day_return": -0.023866983,
       "one_week_return": 0.0,
       "one_month_return": -0.1014391723,
       "above_ma50": 1,
@@ -1647,7 +1647,7 @@
     },
     {
       "ticker": "AEP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 120.6100006104,
       "one_day_return": -0.0132537241,
@@ -1659,7 +1659,7 @@
     },
     {
       "ticker": "CEG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 259.8900146484,
       "one_day_return": -0.0176890522,
@@ -1671,7 +1671,7 @@
     },
     {
       "ticker": "DUK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 117.7699966431,
       "one_day_return": -0.0105024369,
@@ -1683,7 +1683,7 @@
     },
     {
       "ticker": "EIX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 54.5600013733,
       "one_day_return": -0.0279707761,
@@ -1695,7 +1695,7 @@
     },
     {
       "ticker": "ES",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 67.2099990845,
       "one_day_return": -0.0163910832,
@@ -1707,7 +1707,7 @@
     },
     {
       "ticker": "ETR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 102.9199981689,
       "one_day_return": -0.0069471365,
@@ -1719,7 +1719,7 @@
     },
     {
       "ticker": "EVRG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 80.1999969482,
       "one_day_return": -0.008162301,
@@ -1731,19 +1731,19 @@
     },
     {
       "ticker": "EXC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
-      "price": 42.1949996948,
-      "one_day_return": -0.0122893612,
-      "one_week_return": -0.0399317642,
-      "one_month_return": -0.079917158,
+      "price": 42.2000007629,
+      "one_day_return": -0.012172295,
+      "one_week_return": -0.0398179743,
+      "one_month_return": -0.0798081073,
       "above_ma50": 0,
       "near_52w_high": 0,
       "near_52w_low": 0
     },
     {
       "ticker": "FE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 45.3300018311,
       "one_day_return": -0.0109098839,
@@ -1755,7 +1755,7 @@
     },
     {
       "ticker": "LNT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 65.9899978638,
       "one_day_return": -0.0138971956,
@@ -1767,7 +1767,7 @@
     },
     {
       "ticker": "PEG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 70.4199981689,
       "one_day_return": -0.0070501976,
@@ -1779,7 +1779,7 @@
     },
     {
       "ticker": "PPL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 33.2299995422,
       "one_day_return": -0.0165729908,
@@ -1791,7 +1791,7 @@
     },
     {
       "ticker": "SO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 85.9499969482,
       "one_day_return": -0.0120690006,
@@ -1803,7 +1803,7 @@
     },
     {
       "ticker": "VST",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 141.5299987793,
       "one_day_return": 0.0056846662,
@@ -1815,7 +1815,7 @@
     },
     {
       "ticker": "WEC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electric Utilities",
       "price": 103.5100021362,
       "one_day_return": -0.0157839314,
@@ -1827,10 +1827,10 @@
     },
     {
       "ticker": "AME",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electrical Components & Equipment",
       "price": 234.4499969482,
-      "one_day_return": 0.0034239378,
+      "one_day_return": 0.0048862661,
       "one_week_return": -0.0139215917,
       "one_month_return": -0.0798304363,
       "above_ma50": 0,
@@ -1839,7 +1839,7 @@
     },
     {
       "ticker": "EMR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electrical Components & Equipment",
       "price": 147.0,
       "one_day_return": -0.0087660352,
@@ -1851,7 +1851,7 @@
     },
     {
       "ticker": "ETN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electrical Components & Equipment",
       "price": 392.3999938965,
       "one_day_return": -0.0019330801,
@@ -1863,7 +1863,7 @@
     },
     {
       "ticker": "GNRC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electrical Components & Equipment",
       "price": 175.0299987793,
       "one_day_return": -0.0110181772,
@@ -1875,7 +1875,7 @@
     },
     {
       "ticker": "ROK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electrical Components & Equipment",
       "price": 417.0,
       "one_day_return": -0.0044168702,
@@ -1887,7 +1887,7 @@
     },
     {
       "ticker": "VRT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electrical Components & Equipment",
       "price": 234.6100006104,
       "one_day_return": -0.0117106819,
@@ -1899,7 +1899,7 @@
     },
     {
       "ticker": "APH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Components",
       "price": 77.6500015259,
       "one_day_return": -0.0114576893,
@@ -1911,7 +1911,7 @@
     },
     {
       "ticker": "COHR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Components",
       "price": 271.1700134277,
       "one_day_return": 0.0175235025,
@@ -1923,7 +1923,7 @@
     },
     {
       "ticker": "GLW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Components",
       "price": 143.5700073242,
       "one_day_return": -0.0002089051,
@@ -1935,7 +1935,7 @@
     },
     {
       "ticker": "KEYS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Equipment & Instruments",
       "price": 313.3599853516,
       "one_day_return": -0.0050800297,
@@ -1947,7 +1947,7 @@
     },
     {
       "ticker": "ROP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Equipment & Instruments",
       "price": 383.9400024414,
       "one_day_return": -0.027039313,
@@ -1959,7 +1959,7 @@
     },
     {
       "ticker": "TDY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Equipment & Instruments",
       "price": 598.5100097656,
       "one_day_return": 0.0023446676,
@@ -1971,7 +1971,7 @@
     },
     {
       "ticker": "ZBRA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Equipment & Instruments",
       "price": 342.7300109863,
       "one_day_return": -0.0258093478,
@@ -1983,7 +1983,7 @@
     },
     {
       "ticker": "JBL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Manufacturing Services",
       "price": 296.049987793,
       "one_day_return": -0.008938181,
@@ -1995,7 +1995,7 @@
     },
     {
       "ticker": "TEL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Electronic Manufacturing Services",
       "price": 201.4199981689,
       "one_day_return": -0.0095884201,
@@ -2007,7 +2007,7 @@
     },
     {
       "ticker": "ROL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Environmental & Facilities Services",
       "price": 33.7700004578,
       "one_day_return": -0.0436137314,
@@ -2019,7 +2019,7 @@
     },
     {
       "ticker": "RSG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Environmental & Facilities Services",
       "price": 223.0399932861,
       "one_day_return": -0.0124419426,
@@ -2031,7 +2031,7 @@
     },
     {
       "ticker": "VLTO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Environmental & Facilities Services",
       "price": 95.4800033569,
       "one_day_return": -0.0085150537,
@@ -2043,7 +2043,7 @@
     },
     {
       "ticker": "WM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Environmental & Facilities Services",
       "price": 217.25,
       "one_day_return": -0.0038516042,
@@ -2055,7 +2055,7 @@
     },
     {
       "ticker": "CF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Fertilizers & Agricultural Chemicals",
       "price": 135.5399932861,
       "one_day_return": 0.0327643067,
@@ -2067,7 +2067,7 @@
     },
     {
       "ticker": "CTVA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Fertilizers & Agricultural Chemicals",
       "price": 83.3899993896,
       "one_day_return": 0.0102980187,
@@ -2079,7 +2079,7 @@
     },
     {
       "ticker": "MOS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Fertilizers & Agricultural Chemicals",
       "price": 25.4599990845,
       "one_day_return": 0.0163672599,
@@ -2091,7 +2091,7 @@
     },
     {
       "ticker": "CBOE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 270.4400024414,
       "one_day_return": -0.0494200266,
@@ -2103,7 +2103,7 @@
     },
     {
       "ticker": "CME",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 275.0899963379,
       "one_day_return": -0.0191470986,
@@ -2115,7 +2115,7 @@
     },
     {
       "ticker": "COIN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 172.1100006104,
       "one_day_return": -0.1010185252,
@@ -2127,7 +2127,7 @@
     },
     {
       "ticker": "FDS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 277.0899963379,
       "one_day_return": 0.0005777766,
@@ -2139,7 +2139,7 @@
     },
     {
       "ticker": "ICE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 156.8999938965,
       "one_day_return": -0.0053883113,
@@ -2151,7 +2151,7 @@
     },
     {
       "ticker": "MCO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 467.1600036621,
       "one_day_return": -0.0225346582,
@@ -2163,7 +2163,7 @@
     },
     {
       "ticker": "MSCI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 544.5999755859,
       "one_day_return": -0.0163461545,
@@ -2175,7 +2175,7 @@
     },
     {
       "ticker": "NDAQ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 89.2300033569,
       "one_day_return": -0.0255541809,
@@ -2187,7 +2187,7 @@
     },
     {
       "ticker": "SPGI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Financial Exchanges & Data",
       "price": 412.5199890137,
       "one_day_return": -0.0143833789,
@@ -2199,7 +2199,7 @@
     },
     {
       "ticker": "SYY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Food Distributors",
       "price": 79.5999984741,
       "one_day_return": -0.0471630644,
@@ -2211,7 +2211,7 @@
     },
     {
       "ticker": "CASY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Food Retail",
       "price": 587.1400146484,
       "one_day_return": -0.05545273,
@@ -2223,7 +2223,7 @@
     },
     {
       "ticker": "KR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Food Retail",
       "price": 62.25,
       "one_day_return": 0.0219996742,
@@ -2235,7 +2235,7 @@
     },
     {
       "ticker": "DECK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Footwear",
       "price": 77.5100021362,
       "one_day_return": -0.0376210423,
@@ -2247,7 +2247,7 @@
     },
     {
       "ticker": "ATO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Gas Utilities",
       "price": 162.0399932861,
       "one_day_return": -0.010986347,
@@ -2259,7 +2259,7 @@
     },
     {
       "ticker": "NEM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Gold",
       "price": 124.1900024414,
       "one_day_return": 0.0091005342,
@@ -2271,7 +2271,7 @@
     },
     {
       "ticker": "CAH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Distributors",
       "price": 232.6499938965,
       "one_day_return": -0.0095364021,
@@ -2283,7 +2283,7 @@
     },
     {
       "ticker": "COR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Distributors",
       "price": 323.2900085449,
       "one_day_return": -0.0090120539,
@@ -2295,7 +2295,7 @@
     },
     {
       "ticker": "HSIC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Distributors",
       "price": 87.5199966431,
       "one_day_return": -0.0158552081,
@@ -2307,7 +2307,7 @@
     },
     {
       "ticker": "MCK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Distributors",
       "price": 899.5599975586,
       "one_day_return": -0.0125034464,
@@ -2319,7 +2319,7 @@
     },
     {
       "ticker": "ABT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 102.0299987793,
       "one_day_return": -0.0102822543,
@@ -2331,7 +2331,7 @@
     },
     {
       "ticker": "BAX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 23.7099990845,
       "one_day_return": -0.006286736,
@@ -2343,7 +2343,7 @@
     },
     {
       "ticker": "BDX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 185.9199981689,
       "one_day_return": 0.0164561503,
@@ -2355,7 +2355,7 @@
     },
     {
       "ticker": "BSX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 43.8699989319,
       "one_day_return": -0.026193126,
@@ -2367,7 +2367,7 @@
     },
     {
       "ticker": "DXCM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 86.4499969482,
       "one_day_return": 0.0209021804,
@@ -2379,7 +2379,7 @@
     },
     {
       "ticker": "EW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 85.7399978638,
       "one_day_return": 0.002572512,
@@ -2391,7 +2391,7 @@
     },
     {
       "ticker": "GEHC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 64.0699996948,
       "one_day_return": -0.0028015612,
@@ -2403,7 +2403,7 @@
     },
     {
       "ticker": "IDXX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 510.7300109863,
       "one_day_return": 0.002296125,
@@ -2415,7 +2415,7 @@
     },
     {
       "ticker": "ISRG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 377.1600036621,
       "one_day_return": -0.0020638164,
@@ -2427,7 +2427,7 @@
     },
     {
       "ticker": "MDT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 93.75,
       "one_day_return": -0.0005330816,
@@ -2439,7 +2439,7 @@
     },
     {
       "ticker": "PODD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 139.2400054932,
       "one_day_return": 0.0104499449,
@@ -2451,7 +2451,7 @@
     },
     {
       "ticker": "RMD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 229.4400024414,
       "one_day_return": 0.0289250495,
@@ -2463,7 +2463,7 @@
     },
     {
       "ticker": "RVTY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 140.1900024414,
       "one_day_return": 0.0910576422,
@@ -2475,7 +2475,7 @@
     },
     {
       "ticker": "STE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 210.2799987793,
       "one_day_return": -0.0158195489,
@@ -2487,7 +2487,7 @@
     },
     {
       "ticker": "SYK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 281.5,
       "one_day_return": -0.0013126446,
@@ -2499,7 +2499,7 @@
     },
     {
       "ticker": "ZBH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Equipment",
       "price": 98.4100036621,
       "one_day_return": 0.0193702375,
@@ -2511,7 +2511,7 @@
     },
     {
       "ticker": "HCA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Facilities",
       "price": 423.8200073242,
       "one_day_return": -0.0039248465,
@@ -2523,7 +2523,7 @@
     },
     {
       "ticker": "UHS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Facilities",
       "price": 176.8500061035,
       "one_day_return": 0.020779256,
@@ -2535,7 +2535,7 @@
     },
     {
       "ticker": "DOC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care REITs",
       "price": 20.1599998474,
       "one_day_return": -0.0103093266,
@@ -2547,7 +2547,7 @@
     },
     {
       "ticker": "VTR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care REITs",
       "price": 88.5599975586,
       "one_day_return": -0.0060606164,
@@ -2559,7 +2559,7 @@
     },
     {
       "ticker": "WELL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care REITs",
       "price": 232.7599945068,
       "one_day_return": -0.0061910771,
@@ -2571,7 +2571,7 @@
     },
     {
       "ticker": "CI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Services",
       "price": 288.8999938965,
       "one_day_return": -0.0039648128,
@@ -2583,7 +2583,7 @@
     },
     {
       "ticker": "CVS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Services",
       "price": 94.4899978638,
       "one_day_return": -0.0110937222,
@@ -2595,7 +2595,7 @@
     },
     {
       "ticker": "DGX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Services",
       "price": 247.0800018311,
       "one_day_return": 0.0386313105,
@@ -2607,7 +2607,7 @@
     },
     {
       "ticker": "DVA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Services",
       "price": 190.8999938965,
       "one_day_return": 0.0083455869,
@@ -2619,7 +2619,7 @@
     },
     {
       "ticker": "LH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Services",
       "price": 323.9700012207,
       "one_day_return": 0.0274650462,
@@ -2631,7 +2631,7 @@
     },
     {
       "ticker": "ALGN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Supplies",
       "price": 147.0,
       "one_day_return": -0.0392156863,
@@ -2643,7 +2643,7 @@
     },
     {
       "ticker": "COO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Supplies",
       "price": 53.2700004578,
       "one_day_return": -0.0175212236,
@@ -2655,7 +2655,7 @@
     },
     {
       "ticker": "WST",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Supplies",
       "price": 365.0,
       "one_day_return": 0.0275900548,
@@ -2667,7 +2667,7 @@
     },
     {
       "ticker": "SOLV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Technology",
       "price": 90.0599975586,
       "one_day_return": 0.0026719869,
@@ -2679,7 +2679,7 @@
     },
     {
       "ticker": "VEEV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Health Care Technology",
       "price": 266.6199951172,
       "one_day_return": 0.0035757957,
@@ -2691,7 +2691,7 @@
     },
     {
       "ticker": "GEV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Heavy Electrical Equipment",
       "price": 882.8099975586,
       "one_day_return": 0.0092025101,
@@ -2703,7 +2703,7 @@
     },
     {
       "ticker": "HD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Home Improvement Retail",
       "price": 305.4800109863,
       "one_day_return": -0.0173383865,
@@ -2715,7 +2715,7 @@
     },
     {
       "ticker": "LOW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Home Improvement Retail",
       "price": 194.6100006104,
       "one_day_return": -0.0179643619,
@@ -2727,7 +2727,7 @@
     },
     {
       "ticker": "DHI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Homebuilding",
       "price": 140.1999969482,
       "one_day_return": 0.0056666901,
@@ -2739,7 +2739,7 @@
     },
     {
       "ticker": "LEN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Homebuilding",
       "price": 80.0699996948,
       "one_day_return": 0.0010001479,
@@ -2751,7 +2751,7 @@
     },
     {
       "ticker": "NVR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Homebuilding",
       "price": 6257.4501953125,
       "one_day_return": -0.0066845721,
@@ -2763,10 +2763,10 @@
     },
     {
       "ticker": "PHM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Homebuilding",
       "price": 119.4700012207,
-      "one_day_return": 0.0044560179,
+      "one_day_return": 0.0066565631,
       "one_week_return": -0.0049970723,
       "one_month_return": -0.0822706411,
       "above_ma50": 0,
@@ -2775,7 +2775,7 @@
     },
     {
       "ticker": "WSM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Homefurnishing Retail",
       "price": 221.4700012207,
       "one_day_return": -0.034694642,
@@ -2787,7 +2787,7 @@
     },
     {
       "ticker": "HST",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotel & Resort REITs",
       "price": 22.1299991608,
       "one_day_return": -0.0107287291,
@@ -2799,7 +2799,7 @@
     },
     {
       "ticker": "VICI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotel & Resort REITs",
       "price": 24.7600002289,
       "one_day_return": -0.0111821356,
@@ -2811,7 +2811,7 @@
     },
     {
       "ticker": "ABNB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 168.3200073242,
       "one_day_return": -0.0136535989,
@@ -2823,7 +2823,7 @@
     },
     {
       "ticker": "BKNG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 171.3200073242,
       "one_day_return": -0.0229825985,
@@ -2835,7 +2835,7 @@
     },
     {
       "ticker": "CCL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 22.1100006104,
       "one_day_return": -0.0199467583,
@@ -2847,7 +2847,7 @@
     },
     {
       "ticker": "EXPE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 293.0799865723,
       "one_day_return": 0.0181338202,
@@ -2859,7 +2859,7 @@
     },
     {
       "ticker": "HLT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 307.7900085449,
       "one_day_return": -0.0090469978,
@@ -2871,7 +2871,7 @@
     },
     {
       "ticker": "MAR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 337.2399902344,
       "one_day_return": -0.0094577962,
@@ -2883,7 +2883,7 @@
     },
     {
       "ticker": "NCLH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 14.279999733,
       "one_day_return": -0.0298913401,
@@ -2895,7 +2895,7 @@
     },
     {
       "ticker": "RCL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Hotels, Resorts & Cruise Lines",
       "price": 249.3000030518,
       "one_day_return": -0.0236547089,
@@ -2907,7 +2907,7 @@
     },
     {
       "ticker": "CHD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Household Products",
       "price": 94.5100021362,
       "one_day_return": -0.0007401109,
@@ -2919,7 +2919,7 @@
     },
     {
       "ticker": "CL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Household Products",
       "price": 87.0,
       "one_day_return": -0.0101262874,
@@ -2931,7 +2931,7 @@
     },
     {
       "ticker": "CLX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Household Products",
       "price": 87.1600036621,
       "one_day_return": -0.0240733843,
@@ -2943,19 +2943,19 @@
     },
     {
       "ticker": "KMB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Household Products",
-      "price": 98.6750030518,
-      "one_day_return": -0.0041880442,
-      "one_week_return": -0.0413387471,
-      "one_month_return": -0.1061237105,
+      "price": 98.6800003052,
+      "one_day_return": -0.0041376128,
+      "one_week_return": -0.0412901971,
+      "one_month_return": -0.1060784414,
       "above_ma50": 0,
       "near_52w_high": 0,
       "near_52w_low": 0
     },
     {
       "ticker": "ADP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Human Resource & Employment Services",
       "price": 276.5299987793,
       "one_day_return": -0.0003615157,
@@ -2967,7 +2967,7 @@
     },
     {
       "ticker": "PAYX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Human Resource & Employment Services",
       "price": 118.3000030518,
       "one_day_return": -0.0017719946,
@@ -2979,7 +2979,7 @@
     },
     {
       "ticker": "ACN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "IT Consulting & Other Services",
       "price": 193.3999938965,
       "one_day_return": -0.0082051595,
@@ -2991,7 +2991,7 @@
     },
     {
       "ticker": "CTSH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "IT Consulting & Other Services",
       "price": 63.2799987793,
       "one_day_return": -0.0127925072,
@@ -3003,7 +3003,7 @@
     },
     {
       "ticker": "IBM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "IT Consulting & Other Services",
       "price": 248.3699951172,
       "one_day_return": -0.0028905264,
@@ -3015,7 +3015,7 @@
     },
     {
       "ticker": "IT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "IT Consulting & Other Services",
       "price": 195.6199951172,
       "one_day_return": -0.0073578533,
@@ -3027,7 +3027,7 @@
     },
     {
       "ticker": "AES",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Independent Power Producers & Energy Traders",
       "price": 14.8000001907,
       "one_day_return": 0.0,
@@ -3039,7 +3039,7 @@
     },
     {
       "ticker": "NRG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Independent Power Producers & Energy Traders",
       "price": 105.9899978638,
       "one_day_return": -0.0228634952,
@@ -3051,7 +3051,7 @@
     },
     {
       "ticker": "HON",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Conglomerates",
       "price": 203.4400024414,
       "one_day_return": 0.0102294047,
@@ -3063,7 +3063,7 @@
     },
     {
       "ticker": "MMM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Conglomerates",
       "price": 164.6699981689,
       "one_day_return": 0.0163559673,
@@ -3075,7 +3075,7 @@
     },
     {
       "ticker": "APD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Gases",
       "price": 290.5599975586,
       "one_day_return": 0.0119457828,
@@ -3087,7 +3087,7 @@
     },
     {
       "ticker": "LIN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Gases",
       "price": 462.9599914551,
       "one_day_return": -0.0031222674,
@@ -3099,7 +3099,7 @@
     },
     {
       "ticker": "DOV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 188.9700012207,
       "one_day_return": -0.000951587,
@@ -3111,7 +3111,7 @@
     },
     {
       "ticker": "FTV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 56.4500007629,
       "one_day_return": 0.0228302621,
@@ -3123,7 +3123,7 @@
     },
     {
       "ticker": "GWW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 1269.5300292969,
       "one_day_return": -0.0062465111,
@@ -3135,19 +3135,19 @@
     },
     {
       "ticker": "HUBB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
-      "price": 438.5299987793,
-      "one_day_return": -0.0087029388,
-      "one_week_return": -0.0564174314,
-      "one_month_return": -0.1424744594,
+      "price": 439.0700073242,
+      "one_day_return": 0.0012314062,
+      "one_week_return": -0.0349473457,
+      "one_month_return": -0.129347575,
       "above_ma50": 0,
       "near_52w_high": 0,
       "near_52w_low": 0
     },
     {
       "ticker": "IEX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 222.8399963379,
       "one_day_return": 0.0031511522,
@@ -3159,7 +3159,7 @@
     },
     {
       "ticker": "IR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 71.9100036621,
       "one_day_return": -0.0030499598,
@@ -3171,7 +3171,7 @@
     },
     {
       "ticker": "ITW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 268.6000061035,
       "one_day_return": -0.0016354536,
@@ -3183,7 +3183,7 @@
     },
     {
       "ticker": "NDSN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 309.25,
       "one_day_return": 0.0030488873,
@@ -3195,7 +3195,7 @@
     },
     {
       "ticker": "OTIS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 68.5,
       "one_day_return": -0.0239384482,
@@ -3207,7 +3207,7 @@
     },
     {
       "ticker": "PH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 925.0,
       "one_day_return": -0.0041234855,
@@ -3219,7 +3219,7 @@
     },
     {
       "ticker": "PNR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 56.5800018311,
       "one_day_return": 0.0071199986,
@@ -3231,7 +3231,7 @@
     },
     {
       "ticker": "SNA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 374.8200073242,
       "one_day_return": -0.0078352254,
@@ -3243,7 +3243,7 @@
     },
     {
       "ticker": "SWK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 88.5800018311,
       "one_day_return": -0.003487429,
@@ -3255,7 +3255,7 @@
     },
     {
       "ticker": "XYL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial Machinery & Supplies & Components",
       "price": 107.5,
       "one_day_return": 9.30518e-05,
@@ -3267,7 +3267,7 @@
     },
     {
       "ticker": "PLD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Industrial REITs",
       "price": 135.8399963379,
       "one_day_return": 0.0048080027,
@@ -3279,7 +3279,7 @@
     },
     {
       "ticker": "AJG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Insurance Brokers",
       "price": 248.0399932861,
       "one_day_return": -0.0207659286,
@@ -3291,7 +3291,7 @@
     },
     {
       "ticker": "AON",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Insurance Brokers",
       "price": 304.6700134277,
       "one_day_return": -0.0220517267,
@@ -3303,7 +3303,7 @@
     },
     {
       "ticker": "BRO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Insurance Brokers",
       "price": 67.2300033569,
       "one_day_return": -0.0160983235,
@@ -3315,7 +3315,7 @@
     },
     {
       "ticker": "ERIE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Insurance Brokers",
       "price": 250.6100006104,
       "one_day_return": -0.0128801174,
@@ -3327,7 +3327,7 @@
     },
     {
       "ticker": "MRSH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Insurance Brokers",
       "price": 179.7599945068,
       "one_day_return": -0.0037133414,
@@ -3339,7 +3339,7 @@
     },
     {
       "ticker": "WTW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Insurance Brokers",
       "price": 321.9700012207,
       "one_day_return": -0.0053751515,
@@ -3351,7 +3351,7 @@
     },
     {
       "ticker": "CVX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Integrated Oil & Gas",
       "price": 217.7700042725,
       "one_day_return": 0.0263939584,
@@ -3363,7 +3363,7 @@
     },
     {
       "ticker": "XOM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Integrated Oil & Gas",
       "price": 169.3200073242,
       "one_day_return": 0.0256845496,
@@ -3375,7 +3375,7 @@
     },
     {
       "ticker": "T",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Integrated Telecommunication Services",
       "price": 26.7199993134,
       "one_day_return": 0.0079215044,
@@ -3387,7 +3387,7 @@
     },
     {
       "ticker": "VZ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Integrated Telecommunication Services",
       "price": 51.4500007629,
       "one_day_return": 0.0031195134,
@@ -3399,7 +3399,7 @@
     },
     {
       "ticker": "EA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Interactive Home Entertainment",
       "price": 209.6999969482,
       "one_day_return": 0.0,
@@ -3411,7 +3411,7 @@
     },
     {
       "ticker": "TTWO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Interactive Home Entertainment",
       "price": 211.9100036621,
       "one_day_return": -0.0493472694,
@@ -3423,7 +3423,7 @@
     },
     {
       "ticker": "GOOG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Interactive Media & Services",
       "price": 341.4299926758,
       "one_day_return": -0.0123803155,
@@ -3435,7 +3435,7 @@
     },
     {
       "ticker": "GOOGL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Interactive Media & Services",
       "price": 344.9800109863,
       "one_day_return": -0.0126220083,
@@ -3447,7 +3447,7 @@
     },
     {
       "ticker": "META",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Interactive Media & Services",
       "price": 670.2399902344,
       "one_day_return": 0.0069711761,
@@ -3459,7 +3459,7 @@
     },
     {
       "ticker": "AKAM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Internet Services & Infrastructure",
       "price": 105.4000015259,
       "one_day_return": -0.0016102886,
@@ -3471,7 +3471,7 @@
     },
     {
       "ticker": "GDDY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Internet Services & Infrastructure",
       "price": 102.3799972534,
       "one_day_return": -0.020005781,
@@ -3483,7 +3483,7 @@
     },
     {
       "ticker": "VRSN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Internet Services & Infrastructure",
       "price": 297.2600097656,
       "one_day_return": -0.0044875965,
@@ -3495,7 +3495,7 @@
     },
     {
       "ticker": "GS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Investment Banking & Brokerage",
       "price": 976.6699829102,
       "one_day_return": -0.0119176783,
@@ -3507,7 +3507,7 @@
     },
     {
       "ticker": "HOOD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Investment Banking & Brokerage",
       "price": 110.4499969482,
       "one_day_return": -0.0339368916,
@@ -3519,7 +3519,7 @@
     },
     {
       "ticker": "IBKR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Investment Banking & Brokerage",
       "price": 88.8000030518,
       "one_day_return": -0.0214875697,
@@ -3531,7 +3531,7 @@
     },
     {
       "ticker": "MS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Investment Banking & Brokerage",
       "price": 206.2799987793,
       "one_day_return": -0.0014522367,
@@ -3543,7 +3543,7 @@
     },
     {
       "ticker": "RJF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Investment Banking & Brokerage",
       "price": 168.75,
       "one_day_return": -0.0120023596,
@@ -3555,7 +3555,7 @@
     },
     {
       "ticker": "SCHW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Investment Banking & Brokerage",
       "price": 107.7900009155,
       "one_day_return": 0.0044730535,
@@ -3567,7 +3567,7 @@
     },
     {
       "ticker": "HAS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Leisure Products",
       "price": 90.2099990845,
       "one_day_return": -0.0060599718,
@@ -3579,7 +3579,7 @@
     },
     {
       "ticker": "AFL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life & Health Insurance",
       "price": 117.5500030518,
       "one_day_return": 0.0046149979,
@@ -3591,7 +3591,7 @@
     },
     {
       "ticker": "GL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life & Health Insurance",
       "price": 173.2899932861,
       "one_day_return": 0.0021396896,
@@ -3603,7 +3603,7 @@
     },
     {
       "ticker": "MET",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life & Health Insurance",
       "price": 98.2200012207,
       "one_day_return": 0.0048081966,
@@ -3615,7 +3615,7 @@
     },
     {
       "ticker": "PFG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life & Health Insurance",
       "price": 118.3700027466,
       "one_day_return": 0.0125748606,
@@ -3627,7 +3627,7 @@
     },
     {
       "ticker": "PRU",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life & Health Insurance",
       "price": 119.3099975586,
       "one_day_return": -0.0015899786,
@@ -3639,7 +3639,7 @@
     },
     {
       "ticker": "A",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 150.2700042725,
       "one_day_return": 0.02363761,
@@ -3651,7 +3651,7 @@
     },
     {
       "ticker": "CRL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 272.8800048828,
       "one_day_return": -0.00084208,
@@ -3663,7 +3663,7 @@
     },
     {
       "ticker": "DHR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 209.3600006104,
       "one_day_return": 0.0300615036,
@@ -3675,7 +3675,7 @@
     },
     {
       "ticker": "IQV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 269.6700134277,
       "one_day_return": 0.0150562721,
@@ -3687,7 +3687,7 @@
     },
     {
       "ticker": "MTD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 1330.4000244141,
       "one_day_return": 0.0347268321,
@@ -3699,7 +3699,7 @@
     },
     {
       "ticker": "TECH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 72.3399963379,
       "one_day_return": 0.0009685858,
@@ -3711,10 +3711,10 @@
     },
     {
       "ticker": "TMO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 641.3900146484,
-      "one_day_return": 0.0452560538,
+      "one_day_return": 0.0460572276,
       "one_week_return": 0.0636297202,
       "one_month_return": 0.0902616713,
       "above_ma50": 1,
@@ -3723,7 +3723,7 @@
     },
     {
       "ticker": "WAT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Life Sciences Tools & Services",
       "price": 417.0899963379,
       "one_day_return": 0.0172678384,
@@ -3735,7 +3735,7 @@
     },
     {
       "ticker": "CNC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Managed Health Care",
       "price": 67.6600036621,
       "one_day_return": -0.0252125041,
@@ -3747,7 +3747,7 @@
     },
     {
       "ticker": "ELV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Managed Health Care",
       "price": 417.5400085449,
       "one_day_return": -0.0157929046,
@@ -3759,7 +3759,7 @@
     },
     {
       "ticker": "HUM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Managed Health Care",
       "price": 396.6199951172,
       "one_day_return": -0.0255515556,
@@ -3771,7 +3771,7 @@
     },
     {
       "ticker": "UNH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Managed Health Care",
       "price": 375.9299926758,
       "one_day_return": -0.0198670196,
@@ -3783,7 +3783,7 @@
     },
     {
       "ticker": "BALL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Metal, Glass & Plastic Containers",
       "price": 61.0099983215,
       "one_day_return": 0.0049415128,
@@ -3795,7 +3795,7 @@
     },
     {
       "ticker": "DIS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Movies & Entertainment",
       "price": 106.4199981689,
       "one_day_return": -0.0199834077,
@@ -3807,7 +3807,7 @@
     },
     {
       "ticker": "LYV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Movies & Entertainment",
       "price": 170.2400054932,
       "one_day_return": -0.0072890545,
@@ -3819,7 +3819,7 @@
     },
     {
       "ticker": "NFLX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Movies & Entertainment",
       "price": 77.9000015259,
       "one_day_return": -0.0301294594,
@@ -3831,10 +3831,10 @@
     },
     {
       "ticker": "PSKY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Movies & Entertainment",
       "price": 11.0100002289,
-      "one_day_return": 0.0128795165,
+      "one_day_return": 0.0175601238,
       "one_week_return": 0.0194444476,
       "one_month_return": 0.0857988024,
       "above_ma50": 1,
@@ -3843,10 +3843,10 @@
     },
     {
       "ticker": "TKO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Movies & Entertainment",
       "price": 190.1300048828,
-      "one_day_return": -0.0185318827,
+      "one_day_return": -0.014513051,
       "one_week_return": -0.0265717911,
       "one_month_return": -0.055395439,
       "above_ma50": 1,
@@ -3855,7 +3855,7 @@
     },
     {
       "ticker": "AVB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Family Residential REITs",
       "price": 68.1399993896,
       "one_day_return": 0.0202125836,
@@ -3867,7 +3867,7 @@
     },
     {
       "ticker": "CPT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Family Residential REITs",
       "price": 102.8399963379,
       "one_day_return": -0.0095348693,
@@ -3879,7 +3879,7 @@
     },
     {
       "ticker": "EQR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Family Residential REITs",
       "price": 63.6599998474,
       "one_day_return": 0.0,
@@ -3891,7 +3891,7 @@
     },
     {
       "ticker": "ESS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Family Residential REITs",
       "price": 276.049987793,
       "one_day_return": 0.0011604715,
@@ -3903,7 +3903,7 @@
     },
     {
       "ticker": "MAA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Family Residential REITs",
       "price": 124.4899978638,
       "one_day_return": -0.0088375846,
@@ -3915,10 +3915,10 @@
     },
     {
       "ticker": "UDR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Family Residential REITs",
       "price": 34.9099998474,
-      "one_day_return": -0.0130053463,
+      "one_day_return": -0.0089424738,
       "one_week_return": -0.0332318123,
       "one_month_return": -0.0763328075,
       "above_ma50": 0,
@@ -3927,7 +3927,7 @@
     },
     {
       "ticker": "BRK-B",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Sector Holdings",
       "price": 516.7600097656,
       "one_day_return": 0.0035148995,
@@ -3939,7 +3939,7 @@
     },
     {
       "ticker": "AEE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 103.0199966431,
       "one_day_return": -0.0091372951,
@@ -3951,7 +3951,7 @@
     },
     {
       "ticker": "CMS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 65.9199981689,
       "one_day_return": -0.0134690441,
@@ -3963,7 +3963,7 @@
     },
     {
       "ticker": "CNP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 37.9799995422,
       "one_day_return": -0.0173351089,
@@ -3975,7 +3975,7 @@
     },
     {
       "ticker": "D",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 63.8699989319,
       "one_day_return": -0.0091529656,
@@ -3987,7 +3987,7 @@
     },
     {
       "ticker": "DTE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 130.3999938965,
       "one_day_return": -0.0055670782,
@@ -3999,7 +3999,7 @@
     },
     {
       "ticker": "ED",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 105.2399978638,
       "one_day_return": -0.0051049435,
@@ -4011,7 +4011,7 @@
     },
     {
       "ticker": "NEE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 81.0699996948,
       "one_day_return": -0.0068601933,
@@ -4023,7 +4023,7 @@
     },
     {
       "ticker": "NI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 40.5900001526,
       "one_day_return": -0.011687352,
@@ -4035,7 +4035,7 @@
     },
     {
       "ticker": "PCG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 13.1499996185,
       "one_day_return": -0.0330882905,
@@ -4047,7 +4047,7 @@
     },
     {
       "ticker": "PNW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 94.9000015259,
       "one_day_return": -0.0052410901,
@@ -4059,7 +4059,7 @@
     },
     {
       "ticker": "SRE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 81.1999969482,
       "one_day_return": -0.0215688753,
@@ -4071,10 +4071,10 @@
     },
     {
       "ticker": "XEL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-Utilities",
       "price": 72.4899978638,
-      "one_day_return": -0.0225189552,
+      "one_day_return": -0.0146398654,
       "one_week_return": -0.0571019712,
       "one_month_return": -0.0843754005,
       "above_ma50": 0,
@@ -4083,7 +4083,7 @@
     },
     {
       "ticker": "AIG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-line Insurance",
       "price": 75.9800033569,
       "one_day_return": -0.0040634101,
@@ -4095,7 +4095,7 @@
     },
     {
       "ticker": "AIZ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-line Insurance",
       "price": 286.1099853516,
       "one_day_return": 0.0100257579,
@@ -4107,7 +4107,7 @@
     },
     {
       "ticker": "L",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Multi-line Insurance",
       "price": 109.2099990845,
       "one_day_return": 9.15947e-05,
@@ -4119,7 +4119,7 @@
     },
     {
       "ticker": "ARE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Office REITs",
       "price": 52.9300003052,
       "one_day_return": 0.0186682301,
@@ -4131,7 +4131,7 @@
     },
     {
       "ticker": "BXP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Office REITs",
       "price": 63.8400001526,
       "one_day_return": -0.0102325558,
@@ -4143,7 +4143,7 @@
     },
     {
       "ticker": "BKR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Equipment & Services",
       "price": 56.7200012207,
       "one_day_return": -0.0010566671,
@@ -4155,7 +4155,7 @@
     },
     {
       "ticker": "HAL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Equipment & Services",
       "price": 35.6699981689,
       "one_day_return": 0.0188517532,
@@ -4167,7 +4167,7 @@
     },
     {
       "ticker": "SLB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Equipment & Services",
       "price": 54.2000007629,
       "one_day_return": 0.0165041462,
@@ -4179,7 +4179,7 @@
     },
     {
       "ticker": "APA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 47.4099998474,
       "one_day_return": 0.0528536783,
@@ -4191,7 +4191,7 @@
     },
     {
       "ticker": "COP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 141.2200012207,
       "one_day_return": 0.0332918937,
@@ -4203,10 +4203,10 @@
     },
     {
       "ticker": "DVN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 51.3300018311,
-      "one_day_return": 0.0321737845,
+      "one_day_return": 0.0388585709,
       "one_week_return": 0.0605371945,
       "one_month_return": 0.1195202517,
       "above_ma50": 1,
@@ -4215,7 +4215,7 @@
     },
     {
       "ticker": "EOG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 153.7400054932,
       "one_day_return": 0.0350074892,
@@ -4227,7 +4227,7 @@
     },
     {
       "ticker": "EQT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 53.1199989319,
       "one_day_return": -0.0016914143,
@@ -4239,7 +4239,7 @@
     },
     {
       "ticker": "EXE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 94.2300033569,
       "one_day_return": 0.0088865291,
@@ -4251,19 +4251,19 @@
     },
     {
       "ticker": "FANG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
-      "price": 211.5249938965,
-      "one_day_return": 0.0282179304,
-      "one_week_return": 0.0594790902,
-      "one_month_return": 0.0447226385,
+      "price": 211.5299987793,
+      "one_day_return": 0.028242259,
+      "one_week_return": 0.0595041585,
+      "one_month_return": 0.0447473577,
       "above_ma50": 1,
       "near_52w_high": 1,
       "near_52w_low": 0
     },
     {
       "ticker": "OXY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 63.5200004578,
       "one_day_return": 0.0281644822,
@@ -4275,7 +4275,7 @@
     },
     {
       "ticker": "TPL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Exploration & Production",
       "price": 371.6300048828,
       "one_day_return": 0.0174118216,
@@ -4287,7 +4287,7 @@
     },
     {
       "ticker": "MPC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Refining & Marketing",
       "price": 410.8399963379,
       "one_day_return": 0.0362970959,
@@ -4299,7 +4299,7 @@
     },
     {
       "ticker": "PSX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Refining & Marketing",
       "price": 264.9299926758,
       "one_day_return": 0.0306154018,
@@ -4311,7 +4311,7 @@
     },
     {
       "ticker": "VLO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Refining & Marketing",
       "price": 397.0400085449,
       "one_day_return": 0.0367933043,
@@ -4323,7 +4323,7 @@
     },
     {
       "ticker": "KMI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Storage & Transportation",
       "price": 30.7700004578,
       "one_day_return": -0.0061369067,
@@ -4335,7 +4335,7 @@
     },
     {
       "ticker": "OKE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Storage & Transportation",
       "price": 94.7200012207,
       "one_day_return": -0.0232030522,
@@ -4347,7 +4347,7 @@
     },
     {
       "ticker": "TRGP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Storage & Transportation",
       "price": 285.6799926758,
       "one_day_return": -0.0054656478,
@@ -4359,7 +4359,7 @@
     },
     {
       "ticker": "WMB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Oil & Gas Storage & Transportation",
       "price": 71.6299972534,
       "one_day_return": -0.004447529,
@@ -4371,10 +4371,10 @@
     },
     {
       "ticker": "IRM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Other Specialized REITs",
       "price": 112.0400009155,
-      "one_day_return": -0.0001784459,
+      "one_day_return": 0.0075902171,
       "one_week_return": -0.0348035911,
       "one_month_return": -0.1343582844,
       "above_ma50": 0,
@@ -4383,7 +4383,7 @@
     },
     {
       "ticker": "TSCO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Other Specialty Retail",
       "price": 33.0299987793,
       "one_day_return": -0.0236477389,
@@ -4395,7 +4395,7 @@
     },
     {
       "ticker": "ULTA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Other Specialty Retail",
       "price": 544.3200073242,
       "one_day_return": -0.0078921296,
@@ -4407,7 +4407,7 @@
     },
     {
       "ticker": "CAG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 15.0200004578,
       "one_day_return": 0.0155510816,
@@ -4419,7 +4419,7 @@
     },
     {
       "ticker": "CPB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 21.3600006104,
       "one_day_return": 0.0051764993,
@@ -4431,7 +4431,7 @@
     },
     {
       "ticker": "GIS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 36.5800018311,
       "one_day_return": 0.0030161943,
@@ -4443,7 +4443,7 @@
     },
     {
       "ticker": "HRL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 20.7900009155,
       "one_day_return": -0.0081106,
@@ -4455,7 +4455,7 @@
     },
     {
       "ticker": "HSY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 170.4199981689,
       "one_day_return": -0.0187701212,
@@ -4467,19 +4467,19 @@
     },
     {
       "ticker": "KHC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
-      "price": 24.2700004578,
-      "one_day_return": -0.0134146308,
-      "one_week_return": -0.0233400368,
-      "one_month_return": -0.0437351749,
+      "price": 24.7299995422,
+      "one_day_return": 0.0189534024,
+      "one_week_return": -0.0068273124,
+      "one_month_return": -0.0305762713,
       "above_ma50": 0,
       "near_52w_high": 0,
       "near_52w_low": 0
     },
     {
       "ticker": "MDLZ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 62.0999984741,
       "one_day_return": -0.0046481955,
@@ -4491,7 +4491,7 @@
     },
     {
       "ticker": "MKC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 49.8600006104,
       "one_day_return": -0.0105179358,
@@ -4503,7 +4503,7 @@
     },
     {
       "ticker": "SJM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 121.6999969482,
       "one_day_return": 0.0032975588,
@@ -4515,7 +4515,7 @@
     },
     {
       "ticker": "TSN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Packaged Foods & Meats",
       "price": 52.5499992371,
       "one_day_return": -0.0114748046,
@@ -4527,7 +4527,7 @@
     },
     {
       "ticker": "AMCR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Paper & Plastic Packaging Products & Materials",
       "price": 42.4599990845,
       "one_day_return": 0.0049703925,
@@ -4539,7 +4539,7 @@
     },
     {
       "ticker": "AVY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Paper & Plastic Packaging Products & Materials",
       "price": 171.5200042725,
       "one_day_return": 0.00351045,
@@ -4551,7 +4551,7 @@
     },
     {
       "ticker": "IP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Paper & Plastic Packaging Products & Materials",
       "price": 33.9900016785,
       "one_day_return": -0.0075911919,
@@ -4563,10 +4563,10 @@
     },
     {
       "ticker": "PKG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Paper & Plastic Packaging Products & Materials",
       "price": 231.2100067139,
-      "one_day_return": -0.0087884243,
+      "one_day_return": -0.002373092,
       "one_week_return": -0.0033622085,
       "one_month_return": -0.0949976101,
       "above_ma50": 0,
@@ -4575,7 +4575,7 @@
     },
     {
       "ticker": "SW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Paper & Plastic Packaging Products & Materials",
       "price": 43.7099990845,
       "one_day_return": -0.0009143066,
@@ -4587,7 +4587,7 @@
     },
     {
       "ticker": "DAL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Passenger Airlines",
       "price": 78.8899993896,
       "one_day_return": -0.0114035542,
@@ -4599,7 +4599,7 @@
     },
     {
       "ticker": "LUV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Passenger Airlines",
       "price": 39.2799987793,
       "one_day_return": -0.0060729169,
@@ -4611,7 +4611,7 @@
     },
     {
       "ticker": "UAL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Passenger Airlines",
       "price": 106.9199981689,
       "one_day_return": -0.0187224755,
@@ -4623,7 +4623,7 @@
     },
     {
       "ticker": "UBER",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Passenger Ground Transportation",
       "price": 71.4300003052,
       "one_day_return": -0.0165220569,
@@ -4635,7 +4635,7 @@
     },
     {
       "ticker": "EL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Personal Care Products",
       "price": 96.25,
       "one_day_return": -0.020057027,
@@ -4647,7 +4647,7 @@
     },
     {
       "ticker": "KVUE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Personal Care Products",
       "price": 17.9200000763,
       "one_day_return": 0.0005583601,
@@ -4659,7 +4659,7 @@
     },
     {
       "ticker": "PG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Personal Care Products",
       "price": 146.6699981689,
       "one_day_return": 0.0036952937,
@@ -4671,7 +4671,7 @@
     },
     {
       "ticker": "BMY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Pharmaceuticals",
       "price": 63.7299995422,
       "one_day_return": -0.0057722144,
@@ -4683,7 +4683,7 @@
     },
     {
       "ticker": "JNJ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Pharmaceuticals",
       "price": 267.200012207,
       "one_day_return": 0.0033043138,
@@ -4695,7 +4695,7 @@
     },
     {
       "ticker": "LLY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Pharmaceuticals",
       "price": 1136.1099853516,
       "one_day_return": -0.0019064236,
@@ -4707,10 +4707,10 @@
     },
     {
       "ticker": "MRK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Pharmaceuticals",
       "price": 143.7899932861,
-      "one_day_return": -0.0073180033,
+      "one_day_return": -0.00145838,
       "one_week_return": -0.0314563735,
       "one_month_return": 0.0585247141,
       "above_ma50": 1,
@@ -4719,7 +4719,7 @@
     },
     {
       "ticker": "PFE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Pharmaceuticals",
       "price": 27.5499992371,
       "one_day_return": -0.006132759,
@@ -4731,7 +4731,7 @@
     },
     {
       "ticker": "VTRS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Pharmaceuticals",
       "price": 16.6499996185,
       "one_day_return": -0.0006002538,
@@ -4743,7 +4743,7 @@
     },
     {
       "ticker": "ZTS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Pharmaceuticals",
       "price": 73.4300003052,
       "one_day_return": -0.0032577422,
@@ -4755,7 +4755,7 @@
     },
     {
       "ticker": "ACGL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 97.0400009155,
       "one_day_return": -0.0092904141,
@@ -4767,7 +4767,7 @@
     },
     {
       "ticker": "ALL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 257.2099914551,
       "one_day_return": -0.0049134149,
@@ -4779,7 +4779,7 @@
     },
     {
       "ticker": "CB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 341.8599853516,
       "one_day_return": 2.91919e-05,
@@ -4791,7 +4791,7 @@
     },
     {
       "ticker": "CINF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 171.6699981689,
       "one_day_return": -0.0020346826,
@@ -4803,7 +4803,7 @@
     },
     {
       "ticker": "HIG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 136.0299987793,
       "one_day_return": -0.0113380158,
@@ -4815,7 +4815,7 @@
     },
     {
       "ticker": "PGR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 221.3099975586,
       "one_day_return": 0.0013120681,
@@ -4827,7 +4827,7 @@
     },
     {
       "ticker": "TRV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 377.9700012207,
       "one_day_return": -0.0002115767,
@@ -4839,7 +4839,7 @@
     },
     {
       "ticker": "WRB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Property & Casualty Insurance",
       "price": 71.2799987793,
       "one_day_return": 0.0057851844,
@@ -4851,7 +4851,7 @@
     },
     {
       "ticker": "NWS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Publishing",
       "price": 33.7799987793,
       "one_day_return": -0.0023627239,
@@ -4863,19 +4863,19 @@
     },
     {
       "ticker": "NWSA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Publishing",
-      "price": 30.4349994659,
-      "one_day_return": -0.0040903142,
-      "one_week_return": 0.0240578792,
-      "one_month_return": 0.043724267,
+      "price": 30.4400005341,
+      "one_day_return": -0.0039266667,
+      "one_week_return": 0.024226152,
+      "one_month_return": 0.0438957714,
       "above_ma50": 1,
       "near_52w_high": 1,
       "near_52w_low": 0
     },
     {
       "ticker": "CSX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Rail Transportation",
       "price": 48.6599998474,
       "one_day_return": -0.0051114292,
@@ -4887,7 +4887,7 @@
     },
     {
       "ticker": "NSC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Rail Transportation",
       "price": 320.2200012207,
       "one_day_return": 0.000531209,
@@ -4899,7 +4899,7 @@
     },
     {
       "ticker": "UNP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Rail Transportation",
       "price": 283.9899902344,
       "one_day_return": -0.0038234755,
@@ -4911,7 +4911,7 @@
     },
     {
       "ticker": "CBRE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Real Estate Services",
       "price": 140.1100006104,
       "one_day_return": -0.0056067659,
@@ -4923,7 +4923,7 @@
     },
     {
       "ticker": "CSGP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Real Estate Services",
       "price": 31.5599994659,
       "one_day_return": 0.001269004,
@@ -4935,7 +4935,7 @@
     },
     {
       "ticker": "CFG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Regional Banks",
       "price": 70.2399978638,
       "one_day_return": -0.0042529494,
@@ -4947,7 +4947,7 @@
     },
     {
       "ticker": "FITB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Regional Banks",
       "price": 54.6699981689,
       "one_day_return": 0.0053327895,
@@ -4959,7 +4959,7 @@
     },
     {
       "ticker": "HBAN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Regional Banks",
       "price": 16.75,
       "one_day_return": -0.0011926331,
@@ -4971,7 +4971,7 @@
     },
     {
       "ticker": "KEY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Regional Banks",
       "price": 21.7000007629,
       "one_day_return": -0.0104878951,
@@ -4983,7 +4983,7 @@
     },
     {
       "ticker": "MTB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Regional Banks",
       "price": 235.3699951172,
       "one_day_return": -0.01030196,
@@ -4995,7 +4995,7 @@
     },
     {
       "ticker": "RF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Regional Banks",
       "price": 29.6800003052,
       "one_day_return": -0.0116550241,
@@ -5007,7 +5007,7 @@
     },
     {
       "ticker": "EG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Reinsurance",
       "price": 379.549987793,
       "one_day_return": 2.6293e-05,
@@ -5019,7 +5019,7 @@
     },
     {
       "ticker": "EFX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Research & Consulting Services",
       "price": 167.0800018311,
       "one_day_return": -0.0302396637,
@@ -5031,10 +5031,10 @@
     },
     {
       "ticker": "VRSK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Research & Consulting Services",
       "price": 180.0800018311,
-      "one_day_return": -0.0371597979,
+      "one_day_return": -0.034578872,
       "one_week_return": 0.0261553148,
       "one_month_return": -0.0087521129,
       "above_ma50": 0,
@@ -5043,7 +5043,7 @@
     },
     {
       "ticker": "CMG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Restaurants",
       "price": 34.8300018311,
       "one_day_return": -0.0594112077,
@@ -5055,10 +5055,10 @@
     },
     {
       "ticker": "DPZ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Restaurants",
       "price": 310.8200073242,
-      "one_day_return": -0.0399974739,
+      "one_day_return": -0.0340605118,
       "one_week_return": -0.0733132467,
       "one_month_return": -0.1023767084,
       "above_ma50": 0,
@@ -5067,7 +5067,7 @@
     },
     {
       "ticker": "DRI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Restaurants",
       "price": 209.1199951172,
       "one_day_return": -0.0432356311,
@@ -5079,7 +5079,7 @@
     },
     {
       "ticker": "MCD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Restaurants",
       "price": 252.7799987793,
       "one_day_return": -0.01829194,
@@ -5091,7 +5091,7 @@
     },
     {
       "ticker": "SBUX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Restaurants",
       "price": 96.5800018311,
       "one_day_return": -0.0251337223,
@@ -5103,7 +5103,7 @@
     },
     {
       "ticker": "YUM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Restaurants",
       "price": 140.7700042725,
       "one_day_return": -0.0379962926,
@@ -5115,7 +5115,7 @@
     },
     {
       "ticker": "FRT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Retail REITs",
       "price": 113.9300003052,
       "one_day_return": -0.0052387888,
@@ -5127,7 +5127,7 @@
     },
     {
       "ticker": "KIM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Retail REITs",
       "price": 22.9899997711,
       "one_day_return": -0.0099052347,
@@ -5139,7 +5139,7 @@
     },
     {
       "ticker": "O",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Retail REITs",
       "price": 58.7099990845,
       "one_day_return": -0.0094483106,
@@ -5151,7 +5151,7 @@
     },
     {
       "ticker": "REG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Retail REITs",
       "price": 74.0500030518,
       "one_day_return": -0.0064403024,
@@ -5163,7 +5163,7 @@
     },
     {
       "ticker": "SPG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Retail REITs",
       "price": 204.1000061035,
       "one_day_return": -0.0042444997,
@@ -5175,10 +5175,10 @@
     },
     {
       "ticker": "EXR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Self-Storage REITs",
       "price": 137.3000030518,
-      "one_day_return": -0.0150644974,
+      "one_day_return": -0.0034837838,
       "one_week_return": -0.0133659138,
       "one_month_return": -0.0716699884,
       "above_ma50": 0,
@@ -5187,10 +5187,10 @@
     },
     {
       "ticker": "PSA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Self-Storage REITs",
       "price": 296.6799926758,
-      "one_day_return": 0.0043331036,
+      "one_day_return": 0.014637479,
       "one_week_return": -0.0163130415,
       "one_month_return": -0.0897431984,
       "above_ma50": 0,
@@ -5199,7 +5199,7 @@
     },
     {
       "ticker": "AMAT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductor Materials & Equipment",
       "price": 421.1700134277,
       "one_day_return": -0.0071662103,
@@ -5211,7 +5211,7 @@
     },
     {
       "ticker": "KLAC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductor Materials & Equipment",
       "price": 168.0200042725,
       "one_day_return": -0.0063279442,
@@ -5223,7 +5223,7 @@
     },
     {
       "ticker": "LRCX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductor Materials & Equipment",
       "price": 270.8699951172,
       "one_day_return": -0.0095798574,
@@ -5235,7 +5235,7 @@
     },
     {
       "ticker": "Q",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductor Materials & Equipment",
       "price": 114.5899963379,
       "one_day_return": -0.022519892,
@@ -5247,7 +5247,7 @@
     },
     {
       "ticker": "TER",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductor Materials & Equipment",
       "price": 332.8500061035,
       "one_day_return": 0.0110874659,
@@ -5259,7 +5259,7 @@
     },
     {
       "ticker": "ADI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 361.3500061035,
       "one_day_return": 0.0009141241,
@@ -5271,7 +5271,7 @@
     },
     {
       "ticker": "AMD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 504.200012207,
       "one_day_return": 0.0218682403,
@@ -5283,7 +5283,7 @@
     },
     {
       "ticker": "AVGO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 339.2699890137,
       "one_day_return": -0.0158099681,
@@ -5295,7 +5295,7 @@
     },
     {
       "ticker": "FSLR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 202.3399963379,
       "one_day_return": -0.0227009134,
@@ -5307,7 +5307,7 @@
     },
     {
       "ticker": "INTC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 97.1399993896,
       "one_day_return": -0.0005144876,
@@ -5319,7 +5319,7 @@
     },
     {
       "ticker": "MCHP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 71.4899978638,
       "one_day_return": 0.0001398224,
@@ -5331,7 +5331,7 @@
     },
     {
       "ticker": "MPWR",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 1142.4599609375,
       "one_day_return": -0.0006822971,
@@ -5343,7 +5343,7 @@
     },
     {
       "ticker": "MU",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 927.5999755859,
       "one_day_return": 0.0038634527,
@@ -5355,7 +5355,7 @@
     },
     {
       "ticker": "NVDA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 212.1699981689,
       "one_day_return": 0.0057356438,
@@ -5367,7 +5367,7 @@
     },
     {
       "ticker": "NXPI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 226.3500061035,
       "one_day_return": 0.0094546243,
@@ -5379,7 +5379,7 @@
     },
     {
       "ticker": "ON",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 73.1999969482,
       "one_day_return": 0.0216328735,
@@ -5391,7 +5391,7 @@
     },
     {
       "ticker": "QCOM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 187.8000030518,
       "one_day_return": 0.0424646651,
@@ -5403,7 +5403,7 @@
     },
     {
       "ticker": "SWKS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 90.0,
       "one_day_return": 0.1355033759,
@@ -5415,7 +5415,7 @@
     },
     {
       "ticker": "TXN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Semiconductors",
       "price": 263.4299926758,
       "one_day_return": 3.78834e-05,
@@ -5427,7 +5427,7 @@
     },
     {
       "ticker": "INVH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Single-Family Residential REITs",
       "price": 27.6399993896,
       "one_day_return": 0.0018122232,
@@ -5439,7 +5439,7 @@
     },
     {
       "ticker": "KDP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Soft Drinks & Non-alcoholic Beverages",
       "price": 31.4899997711,
       "one_day_return": -0.0028499098,
@@ -5451,10 +5451,10 @@
     },
     {
       "ticker": "KO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Soft Drinks & Non-alcoholic Beverages",
       "price": 88.7099990845,
-      "one_day_return": -0.007162836,
+      "one_day_return": -0.0012384667,
       "one_week_return": 0.0039610511,
       "one_month_return": 0.0114012086,
       "above_ma50": 1,
@@ -5463,7 +5463,7 @@
     },
     {
       "ticker": "MNST",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Soft Drinks & Non-alcoholic Beverages",
       "price": 44.6300010681,
       "one_day_return": 0.0097285135,
@@ -5475,7 +5475,7 @@
     },
     {
       "ticker": "PEP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Soft Drinks & Non-alcoholic Beverages",
       "price": 135.5,
       "one_day_return": -0.0061610412,
@@ -5487,7 +5487,7 @@
     },
     {
       "ticker": "DASH",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialized Consumer Services",
       "price": 198.2599945068,
       "one_day_return": -0.0259408419,
@@ -5499,7 +5499,7 @@
     },
     {
       "ticker": "ALB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialty Chemicals",
       "price": 113.4499969482,
       "one_day_return": -0.0137355633,
@@ -5511,7 +5511,7 @@
     },
     {
       "ticker": "DD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialty Chemicals",
       "price": 128.0399932861,
       "one_day_return": 0.0301713118,
@@ -5523,10 +5523,10 @@
     },
     {
       "ticker": "ECL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialty Chemicals",
       "price": 274.6000061035,
-      "one_day_return": -0.0033029786,
+      "one_day_return": -0.0006551538,
       "one_week_return": -0.0126208314,
       "one_month_return": -0.00546876,
       "above_ma50": 0,
@@ -5535,7 +5535,7 @@
     },
     {
       "ticker": "IFF",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialty Chemicals",
       "price": 84.2399978638,
       "one_day_return": 0.0097087086,
@@ -5547,7 +5547,7 @@
     },
     {
       "ticker": "LYB",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialty Chemicals",
       "price": 65.4300003052,
       "one_day_return": 0.0427091682,
@@ -5559,7 +5559,7 @@
     },
     {
       "ticker": "PPG",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialty Chemicals",
       "price": 104.8899993896,
       "one_day_return": -0.0034204334,
@@ -5571,7 +5571,7 @@
     },
     {
       "ticker": "SHW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Specialty Chemicals",
       "price": 323.2200012207,
       "one_day_return": -0.0039445263,
@@ -5583,7 +5583,7 @@
     },
     {
       "ticker": "NUE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Steel",
       "price": 258.8200073242,
       "one_day_return": 0.0164552581,
@@ -5595,7 +5595,7 @@
     },
     {
       "ticker": "STLD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Steel",
       "price": 239.2200012207,
       "one_day_return": 0.0199974522,
@@ -5607,7 +5607,7 @@
     },
     {
       "ticker": "CRWD",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Systems Software",
       "price": 242.4900054932,
       "one_day_return": 0.0302064766,
@@ -5619,7 +5619,7 @@
     },
     {
       "ticker": "FTNT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Systems Software",
       "price": 172.3699951172,
       "one_day_return": 0.0128687421,
@@ -5631,7 +5631,7 @@
     },
     {
       "ticker": "GEN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Systems Software",
       "price": 31.2299995422,
       "one_day_return": -0.0057306688,
@@ -5643,7 +5643,7 @@
     },
     {
       "ticker": "MSFT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Systems Software",
       "price": 497.1199951172,
       "one_day_return": -0.0164025415,
@@ -5655,7 +5655,7 @@
     },
     {
       "ticker": "NOW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Systems Software",
       "price": 141.8999938965,
       "one_day_return": -0.003161308,
@@ -5667,7 +5667,7 @@
     },
     {
       "ticker": "PANW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Systems Software",
       "price": 375.0899963379,
       "one_day_return": 0.0030753433,
@@ -5679,7 +5679,7 @@
     },
     {
       "ticker": "CDW",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Distributors",
       "price": 153.7400054932,
       "one_day_return": 0.0134476505,
@@ -5691,7 +5691,7 @@
     },
     {
       "ticker": "AAPL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 331.3399963379,
       "one_day_return": -0.0052239411,
@@ -5703,7 +5703,7 @@
     },
     {
       "ticker": "DELL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 543.5100097656,
       "one_day_return": 0.0172755483,
@@ -5715,7 +5715,7 @@
     },
     {
       "ticker": "HPE",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 55.8800010681,
       "one_day_return": 0.0084822455,
@@ -5727,7 +5727,7 @@
     },
     {
       "ticker": "HPQ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 33.8199996948,
       "one_day_return": -0.0058789171,
@@ -5739,7 +5739,7 @@
     },
     {
       "ticker": "NTAP",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 189.9299926758,
       "one_day_return": 0.0087635113,
@@ -5751,7 +5751,7 @@
     },
     {
       "ticker": "SMCI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 35.6399993896,
       "one_day_return": -0.0299401807,
@@ -5763,19 +5763,19 @@
     },
     {
       "ticker": "SNDK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
-      "price": 1530.9000244141,
-      "one_day_return": -0.0135889831,
-      "one_week_return": -0.1191548668,
-      "one_month_return": -0.0671557433,
+      "price": 1530.8950195312,
+      "one_day_return": -0.013592208,
+      "one_week_return": -0.1191577465,
+      "one_month_return": -0.067158793,
       "above_ma50": 1,
       "near_52w_high": 0,
       "near_52w_low": 0
     },
     {
       "ticker": "STX",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 771.8099975586,
       "one_day_return": -0.0418844153,
@@ -5787,7 +5787,7 @@
     },
     {
       "ticker": "WDC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Technology Hardware, Storage & Peripherals",
       "price": 411.9599914551,
       "one_day_return": -0.035086923,
@@ -5799,7 +5799,7 @@
     },
     {
       "ticker": "AMT",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Telecom Tower REITs",
       "price": 177.7100067139,
       "one_day_return": 0.0043517817,
@@ -5811,10 +5811,10 @@
     },
     {
       "ticker": "CCI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Telecom Tower REITs",
       "price": 73.25,
-      "one_day_return": -0.0124039125,
+      "one_day_return": 0.0019561107,
       "one_week_return": -0.0358036222,
       "one_month_return": -0.0359305506,
       "above_ma50": 0,
@@ -5823,7 +5823,7 @@
     },
     {
       "ticker": "SBAC",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Telecom Tower REITs",
       "price": 183.1399993896,
       "one_day_return": 0.000382324,
@@ -5835,7 +5835,7 @@
     },
     {
       "ticker": "WY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Timber REITs",
       "price": 22.2900009155,
       "one_day_return": 0.0026991172,
@@ -5847,10 +5847,10 @@
     },
     {
       "ticker": "MO",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Tobacco",
       "price": 69.8099975586,
-      "one_day_return": -0.0113298831,
+      "one_day_return": 0.0044603965,
       "one_week_return": 0.024057495,
       "one_month_return": 0.0625570898,
       "above_ma50": 1,
@@ -5859,7 +5859,7 @@
     },
     {
       "ticker": "PM",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Tobacco",
       "price": 194.1100006104,
       "one_day_return": -0.0038489172,
@@ -5871,7 +5871,7 @@
     },
     {
       "ticker": "FAST",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Trading Companies & Distributors",
       "price": 49.4099998474,
       "one_day_return": -0.0006067714,
@@ -5883,7 +5883,7 @@
     },
     {
       "ticker": "URI",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Trading Companies & Distributors",
       "price": 989.1300048828,
       "one_day_return": -0.0046991175,
@@ -5895,7 +5895,7 @@
     },
     {
       "ticker": "CPAY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 407.75,
       "one_day_return": -0.0116589044,
@@ -5907,7 +5907,7 @@
     },
     {
       "ticker": "FIS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 37.3400001526,
       "one_day_return": -0.0220010515,
@@ -5919,7 +5919,7 @@
     },
     {
       "ticker": "FISV",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 50.0200004578,
       "one_day_return": -0.0190233612,
@@ -5931,7 +5931,7 @@
     },
     {
       "ticker": "GPN",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 88.9800033569,
       "one_day_return": -0.013416111,
@@ -5943,7 +5943,7 @@
     },
     {
       "ticker": "JKHY",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 154.0700073242,
       "one_day_return": -0.0636888212,
@@ -5955,7 +5955,7 @@
     },
     {
       "ticker": "MA",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 573.2700195312,
       "one_day_return": -0.0020019557,
@@ -5967,7 +5967,7 @@
     },
     {
       "ticker": "PYPL",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 53.8100013733,
       "one_day_return": -0.004071764,
@@ -5979,7 +5979,7 @@
     },
     {
       "ticker": "V",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 375.6199951172,
       "one_day_return": 0.0009059804,
@@ -5991,7 +5991,7 @@
     },
     {
       "ticker": "XYZ",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Transaction & Payment Processing Services",
       "price": 78.3099975586,
       "one_day_return": -0.0148446388,
@@ -6003,7 +6003,7 @@
     },
     {
       "ticker": "AWK",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Water Utilities",
       "price": 138.0200042725,
       "one_day_return": -0.006478505,
@@ -6015,7 +6015,7 @@
     },
     {
       "ticker": "SATS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Wireless Telecommunication Services",
       "price": 92.0299987793,
       "one_day_return": -0.0413541794,
@@ -6027,7 +6027,7 @@
     },
     {
       "ticker": "TMUS",
-      "date": "2026-09-15",
+      "date": "2026-09-17",
       "industry": "Wireless Telecommunication Services",
       "price": 180.4700012207,
       "one_day_return": -0.013285909,
